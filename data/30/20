@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cs" xml:lang="cs">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv='Content-language' content='cs' />
+        <meta http-equiv='Cache-Control' content='must-revalidate, post-check=0, pre-check=0' />
+        <meta http-equiv='Cache-Control' content='no-cache' />
+        <meta http-equiv='Expires' content='-1' />
+        <meta http-equiv='imagetoolbar' content='no' />
+        <meta name='robots' content='index,follow' />
+        <meta name='googlebot' content='index,follow,snippet,archive' />
+        <meta name='description' content='' />
+        <meta name='keywords' content='' />
+        <meta name='category' content='COMPANY PRESENTATION' />
+        <meta name='author' content='Zdenek Zeman - zdenek@octopus.cz' />
+        <meta name='webmaster' content='Zdenek Zeman' />
+        <meta name='copyright' content='OCTOPUS' />
+        <meta name='autosize' content='off' />
+        <link href="/css/eurocert.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/smoothness/jquery-ui-1.8.17.custom.css" media="screen" rel="stylesheet" type="text/css" />
+            
+        <script type='text/javascript' src='/js/jquery-1.7.1.min.js'></script>
+        <script type='text/javascript' src='/js/jquery-ui-1.8.17.custom.min.js'></script>
+        <script type='text/javascript' src='/js/jquery.cookie.js'></script>
+        <script type='text/javascript' src='/js/newsletter.js'></script>
+        <script type='text/javascript' src='/js/jquery.simple.timer.js'></script>
+
+        <title>EURO CERT CZ - zkušební středisko</title>    </head>
+    <body>
+        <div id='top_wrap'>
+            <div id='top'>
+                <a href='http://www.eurocert.cz'><img src='/img/logo/eurocert.gif' alt='Eurocert' title='Eurocert' class='logo' /></a>
+                <div class='flags'>
+
+                </div>
+                <div class='rozcestnik'>
+                    <a href='http://www.eurocert.cz/certifikace/' class='rmenu_item'>CERTIFIKAČNÍ ORGÁN <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='http://www.eurocert.cz/akreditace' class='rmenu_item'>AKREDITAČNÍ STŘEDISKO <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='http://www.eurocert.cz/skoleni' class='rmenu_item'>ŠKOLICÍ STŘEDISKO <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='/zkousky' class='rmenu_item_active'>ZKUŠEBNÍ STŘEDISKO <img src='/img/clip/darrow.gif' /></a>
+                    <a href='http://www.eurocert.cz/spolecnost/' class='rmenu_item'>O SPOLEČNOSTI <img src='/img/clip/arrow.gif' /></a>
+
+                </div>
+                <div style='clear: both;'></div>
+            </div>
+        </div>
+
+        <div id='content'>
+            <div id='sright'>
+                <div class='pad'>
+                    <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
+                    <br /><h2>Podnikatel pan Zoufalý chce na svou přítelkyni  Rozmarnou udělat velký dojem, a tak by s ní rád jel na podzim na dvoutýdenní dovolenou do luxusního hotelu na indonéském ostrově Bali. V podnikání však má značné problémy (aniž by to slečna Rozmarná věděla), a tak si potřebných 200 000 Kč musí „tajně“ vypůjčit. Samostatného zprostředkovatele spotřebitelského úvěru pana Chytrého žádá o nestrannou radu, jaký spotřebitelský úvěr si má vybrat .</h2><p><em>Případová studie</em></p><br /><h3>Pan Chytrý spolupracující s osmi poskytovateli spotřebitelského úvěru nabídne panu Zoufalému výběr ze čtyř spotřebitelských úvěrů. Je tento postup správný?</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Ano, pokud se na trhu spotřebitelského úvěru jiný dostupný vhodný spotřebitelský úvěr nevyskytuje.</td></tr><tr><td class='letter'>B</td><td class='answer'>Ano, pokud ostatní poskytovatelé spotřebitelského úvěru, s nimiž pan Chytrý spolupracuje, vhodný spotřebitelský úvěr nenabízejí. </td></tr><tr><td class='letter'>C</td><td class='answer'>Ne, pan Chytrý musí vždy nabídnout alespoň jeden spotřebitelský úvěr od každého poskytovatele spotřebitelského úvěru, s nímž spolupracuje.</td></tr><tr><td class='letter'>D</td><td class='answer'>Ne, pan Chytrý musí vždy nabídnout alespoň pět spotřebitelských úvěrů, pokud by se panu Zoufalému označil za nezávislého poradce v oblasti spotřebitelských úvěrů.</td></tr></table><br /><h3>Pan Zoufalý chce půjčku splatit z příjmu ze svého starobního důchodu ve výši 15 000 Kč, příjmy z podnikání asi rok neočekává, pak předpokládá, že mu jeho podnikání měsíčně přinese čistý příjem zhruba ve výši 20 000 Kč. Jak má pan Chytrý postupovat dál?</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Od pana Zoufalého zjistí, jaké má aktuální výdaje a částku si od jeho starobního důchodu odečte, k možným příjmům z podnikání pana Zoufalého raději nepřihlédne, protože jsou nejisté.</td></tr><tr><td class='letter'>B</td><td class='answer'>Spokojí se s ujištěním pana Zoufalého, že je schopen v prvním roce splácet 3 000 Kč měsíčně, od druhého roku 15 000 Kč měsíčně</td></tr><tr><td class='letter'>C</td><td class='answer'>Od pana Zoufalého zjistí, jaké má aktuální výdaje a částku si od jeho starobního důchodu a předpokládaného příjmu z podnikání odečte, víc není třeba.</td></tr><tr><td class='letter'>D</td><td class='answer'>Od pana Zoufalého zjistí, že je schopen v prvním roce splácet 3 000 Kč měsíčně, od druhého roku 15 000 Kč měsíčně a upozorní jej na rizika spojená s možným neúspěchem jeho podnikání.</td></tr></table><br /><h3>První nabízený spotřebitelský úvěr je splatný za dva roky s RPSN ve výši 10 %, druhý je splatný za tři roky s RPSN ve výši 8 %, třetí je splatný za čtyři roky s RPSN ve výši 6 %, čtvrtý je splatný za pět let s RPSN ve výši 4 % (Počítá se s tím, že pan Zoufalý bude první rok s ohledem na svůj nižší příjem splácet méně a v dalších letech více). Který z níže uvedených spotřebitelských úvěrů by pan Chytrý panu Zoufalému určitě neměl doporučit, bereme-li v úvahu jeho schopnost splácet úvěr uvedenou v otázce č. 2 písm. a)?</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>První spotřebitelský úvěr, i když by za dva roky mohl mít úvěr splacený.</td></tr><tr><td class='letter'>B</td><td class='answer'>Druhý spotřebitelský úvěr, i když pan Zoufalý bude mít v každém měsíci druhého a třetího roku splácení menší rezervu, kdyby byl skutečný příjem nižší, než očekával, protože má delší splatnost než první spotřebitelský úvěr.</td></tr><tr><td class='letter'>C</td><td class='answer'>Třetí spotřebitelský úvěr, i když pan Zoufalý bude mít v každém měsíci druhého, třetího a čtvrtého roku splácení poměrně velkou rezervu, kdyby byl skutečný příjem nižší, než očekával, protože má delší splatnost než první a druhý spotřebitelský úvěr.</td></tr><tr><td class='letter'>D</td><td class='answer'>Čtvrtý spotřebitelský úvěr, i když pan Zoufalý bude mít v každém měsíci druhého a třetího roku splácení opravdu značnou rezervu, kdyby byl skutečný příjem nižší, než očekával, protože má delší splatnost než první, druhý či třetí spotřebitelský úvěr a podnikatelské riziko u pana Zoufalého je tak nejvyšší.</td></tr></table><br /><h3>Pan Zoufalý se ptá pana Chytrého, jak se posoudí jeho úvěruschopnost. Pan Chytrý mu odpoví že,</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>úvěruschopnost na základě informací od pana Chytrého, který je má od pana Zoufalého, posoudí poskytovatel spotřebitelského úvěru a s panem Zoufalým prostřednictvím pana Chytrého uzavře smlouvu o spotřebitelském úvěru, pokud bude mít pan Zoufalý o úvěr nadále zájem a poskytovatel spotřebitelského úvěru bude ochoten mu ho poskytnout.</td></tr><tr><td class='letter'>B</td><td class='answer'>úvěruschopnost si pan Zoufalý posoudí sám, protože slouží jen pro jeho potřeby, a poskytovatel spotřebitelského úvěru s ním poté prostřednictvím pana Chytrého uzavře smlouvu o spotřebitelském úvěru, pokud bude mít pan Zoufalý o úvěr nadále zájem,</td></tr><tr><td class='letter'>C</td><td class='answer'>úvěruschopnost si pan Zoufalý posoudí sám, pan Chytrý to překontroluje, a poskytovatel spotřebitelského úvěru s ním poté prostřednictvím pana Chytrého uzavře smlouvu o spotřebitelském úvěru, pokud bude mít pan Zoufalý o úvěr nadále zájem,</td></tr><tr><td class='letter'>D</td><td class='answer'>úvěruschopnost posoudí pan Chytrý, protože pana Zoufalého zná a v oblasti spotřebitelských úvěrů se jako samostatný zprostředkovatel dobře vyzná, a poskytovatel spotřebitelského úvěru s ním poté prostřednictvím pana Chytrého uzavře smlouvu o spotřebitelském úvěru, pokud bude mít pan Zoufalý o úvěr nadále zájem,</td></tr></table><br /><h3>Pan Zoufalý po prvním roce řádného splácení spotřebitelského úvěru zjistil, že mu jeho podnikání v dalších letech žádný příjem neposkytne, jak v době uzavírání smlouvy o spotřebitelském úvěru předpokládal. S tím, jak si peníze na dovolenou na Bali obstaral, se svěří slečně Rozmarné. Ta se překvapivě rozhodne, že nesplacený dluh svého dříve velkorysého přítele uhradí z prodeje jím v minulosti darovaných drahých šperků a obrátí se na pana Chytrého se žádostí o nestrannou radu. Pan Chytrý slečnu Rozmarnou upozorní, že:</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>se souhlasem pana Zoufalého a bez ohledu na názor věřitele může sl. Rozmarná splácet zbylé splátky místo pana Zoufalého, </td></tr><tr><td class='letter'>B</td><td class='answer'>pan Zoufalý musí vždy uhradit zbylé splátky sám,</td></tr><tr><td class='letter'>C</td><td class='answer'>aniž by se ptala pana Zoufalého či věřitele, může slečna Rozmarná splácet zbylé splátky místo pana Zoufalého</td></tr><tr><td class='letter'>D</td><td class='answer'>přestože to pan Zoufalý z rytířských důvodů odmítá, může slečna Rozmarná bez ohledu na názor věřitele splácet jednotlivé splátky místo pana Zoufalého.</td></tr></table><p class='align-right'>
+   <button class='yellow_button' id='show_butt'>zobrazit správné odpovědi</button></p>
+<hr />
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1296'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1299'>následující otázka</a>
+<script type='text/javascript'>
+
+$('#show_butt').bind('click', function() {
+   $('.correct_qq').addClass('corlated'); 
+});
+</script>
+                 </div>
+            </div>
+
+            <div id='sleft'>
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                                <div class='prod-menu1'>
+                    <a class='mit ' href='javascript:void(0);' id='it_m_zkousky' onclick='toggleMenu("m_zkousky");'><span class='prod'>Zkoušky</span></a>
+                </div>
+                <div class='sub_sub snv' id='m_zkousky'>
+                    <a href='/zsu'><span class='prod'>Úvodní informace</span></a>
+                    <a href='/zsu/kategorie'><span class='prod'>Kategorie zkoušek</span></a>
+                    <a href='/zsu/pravidla'><span class='prod'>Pravidla a průběh zkoušky</span></a>
+                </div>
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                
+                
+                                
+                <div class='prod-menu1'>
+                    
+                    <a class='mit mactiv' href='javascript:void(0);' id='it_m_priprava' onclick='toggleMenu("m_priprava");'><span class='prod'>Příprava na zkoušku</span></a>
+                </div>
+                <div class='sub_sub  ' id='m_priprava'>
+                    <a href='/zsu/priprava'><span class='prod'>Příprava</span></a>
+                    <a href='/zsu/elearning/index'><span class='prod'>E-learning</span></a>
+                    <a href='/zsu/test/index'><span class='prod'>Test nanečisto</span></a>
+
+                </div>
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/terminy'><span class='prod'>Termíny zkoušek</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/cenik'><span class='prod'>Ceník</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/akreditace'><span class='prod'>Akreditace</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/predpisy'><span class='prod'>Právní předpisy</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                
+                                  <div class='prod-menu1'>
+                    <a class='mit ' href='javascript:void(0);' id='it_m_pomuzeme' onclick='toggleMenu("m_pomuzeme");'><span class='prod'>Pomůžeme vám</span></a>
+                </div>
+                <div class='sub_sub  snv' id='m_pomuzeme'>
+
+                  
+
+                    <a href='/zsu/skoleni'><span class='prod'>Školení</span></a>
+
+                    <a href='/zsu/poradenstvi'><span class='prod'>Poradenství</span></a>
+
+                    <a href='/zsu/certifikace'><span class='prod'>Certifikace</span></a>
+
+                    <a href='/zsu/pravni-sluzby'><span class='prod'>Právní služby</span></a>
+
+                </div>
+
+
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/download'><span class='prod'>Dokumenty ke stažení</span></a>
+                </div>
+
+
+
+
+                <div style='clear: both;'></div>    
+
+                <div class='nbox'>
+                    <div class='pad' id='nbox_result'>
+                        <h3>Přihlášení k odběru novinek a slev</h3>
+                        <form name='FN' id='FN' action='' method='post'>
+                            <input class='inp' type='text' id='form_email' name='email' value='@' />
+                            <input class='sub' type="image" src="/img/clip/arrow-box.gif" alt="Odeslat" />
+                        </form>
+                        <p class='small'>
+                            Odesláním emailové adresy souhlasíte s <a href='/spolecnost//newsletter'>podmínkami služby</a>
+                        </p>
+                    </div>
+                </div>
+
+
+                <div id='ECdotaz'>
+                    <a href='/spolecnost/cz/dotaz'>
+                        <strong>Máte otázku?</strong>
+                        <span>Zajímá vás konkrétní informace,
+                            kterou jste zde nenašli?</span>
+                        <img src='/img/clip/arrow.gif' alt='' />
+                    </a>
+                </div>
+
+
+
+
+
+
+
+
+                <div style='clear: both;'></div>
+
+
+                <div class='aktuality'>
+                    <div class='pad'>
+                        <h2>AKTUALITY</h2>
+                        <p class='aheader'><a href='/zkousky/aktuality'>Novinky v právní úpravě BOZP</a></p><p><em>08.06.2017</em>Zdarma nyní nabízíme účastníkům přípravného školení ke zkoušce OZO (prevence rizik v...<br /><a href='/zkousky/aktuality'>podrobnosti</a></p><p class='aheader'><a href='/zkousky/aktuality'>Akreditace od ČNB</a></p><p><em>12.05.2017</em>Rádi bychom Vás informovali, že společnost EURO CERT CZ, a.s. dne 12.5.2017 obdržela...<br /><a href='/zkousky/aktuality'>podrobnosti</a></p>                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+            <div style='clear: both;height: 20px;'></div>
+        </div>
+        <div id='bottom_wrap'>
+            <div id='bottom'>
+                <div class='kontakt'>
+                    <h3>EURO CERT SK, s.r.o.</h3>
+                    Popradská 66<br />
+                    040 01 Košice<br />
+                    Tel.: +421 557 871 940<br />
+                    Tel.:+421 904 413 127<br /> 
+                    Fax: +421 557 871 941<br />
+                    <a href='mailto:info@eurocert.sk'>info@eurocert.sk</a>
+                </div>
+                <div class='kontakt2'>
+                    <h3>EURO CERT CZ, a.s.</h3>
+                    Lidická 2370<br />
+                    252 63 Roztoky u Prahy<br />
+                    Tel.: +420 234 222 111<br />
+                    Fax: +420 234 222 100<br />
+                    Tel.: +420 601 384 085<br />
+                    <a href='mailto:info@eurocert.cz'>info@eurocert.cz</a>
+                </div>
+                <div class='bmap'>
+                    <h3>CERTIFIKAČNÍ ORGÁN</h3>
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-9001'>ISO 9001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-14001'>ISO 14001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/ohsas-18001'>OHSAS 18001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-27001'>ISO/IEC 27001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-3834'>ISO 3834-2</a>
+                </div>
+                <div class='bmap'>
+                    <h3>ŠKOLICÍ STŘEDISKO</h3>
+                    <a href='http://www.eurocert.cz/skoleni'>Školení, kurzy, semináře</a><br />
+                    <a href='http://www.eurocert.cz/skoleni/prehled-skoleni'>Přehled školení</a><br />
+
+                </div>
+                <div class='bmap'>
+                    <h3>ZKUŠEBNÍ STŘEDISKO</h3>
+                    <a href='http://www.eurocert.cz/zkousky'>Zkoušky a certifikace personálu</a><br />
+                    <a href='http://www.eurocert.cz/zkousky/terminy'>Termíny zkoušek</a><br />
+                    <a href='http://www.eurocert.cz/zkousky/prihlaska'>Přihláška k provedení zkoušky</a><br />
+                </div>
+            </div>
+        </div>
+        <div id='footer'>
+            <div class='octopus'>
+                Web realizoval <a href='http://www.octopus.cz'>OCTOPUS</a>
+            </div>
+            Copyright &copy; EURO CERT CZ. Všechna práva vyhrazena.
+        </div>
+
+        <script type='text/javascript'>
+            function toggleMenu(id) {
+                $('.mit').removeClass('mactiv');
+                $('.sub_sub').addClass('snv');
+                $('#' + id).removeClass('snv');
+                if ($('#' + id).hasClass('snv')) {
+                    $('#it_' + id).removeClass('mactiv');
+                } else {
+                    $('#it_' + id).addClass('mactiv');
+                }
+            }
+        </script>
+
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-16155094-1");
+                pageTracker._trackPageview();
+            } catch (err) {
+            }
+        </script>
+    </body>
+</html>

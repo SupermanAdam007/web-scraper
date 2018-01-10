@@ -1,0 +1,1 @@
+wget -i c:\Users\adamp\Documents\andrea_skoleni\otazky_url.txt
