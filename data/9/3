@@ -54,10 +54,10 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Spotřebitel je:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>fyzická osoba, která mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá smlouvu s podnikatelem, nebo s ním jinak jedná.</td></tr><tr><td class='letter'>B</td><td class='answer'>fyzická nebo právnická osoba, která nejedná v rámci samostatného výkonu svého povolání.</td></tr><tr><td class='letter'>C</td><td class='answer'>fyzická osoba, která v rámci své podnikatelské činnosti nebo v rámci samostatného výkonu svého povolání veřejně prohlásí, že uzavírá smlouvu s podnikatelem, nebo s ním jinak jedná jako spotřebitel.</td></tr><tr><td class='letter'>D</td><td class='answer'>právnická osoba, která jedná v rámci své podnikatelské činnosti nebo v rámci samostatného výkonu svého povolání.</td></tr></table><p class='align-right'>
+                    <br /><h2>Odměna osoby, která se podílí nebo má podílet na poskytování nebo zprostředkování spotřebitelského úvěru, se nesmí odvozovat od:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>počtu uzavřených spotřebitelských smluv,</td></tr><tr><td class='letter'>B</td><td class='answer'>výše jistiny a úroků ze spotřebitelské smlouvy,</td></tr><tr><td class='letter'>C</td><td class='answer'>složené vstupní nebo jiné obdobné platby,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>získání dalších osob pro tuto činnost touto osobou.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/58'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
 <script type='text/javascript'>
 

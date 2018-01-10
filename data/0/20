@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>V oblasti investičního bankovnictví je/jsou hlavním zdrojem zisku:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>zprostředkovatelské provize a kapitálové zisky,</td></tr><tr><td class='letter'>B</td><td class='answer'>úroková marže mezi aktivními úrokovými a pasivními úrokovými obchody,</td></tr><tr><td class='letter'>C</td><td class='answer'>provize za zprostředkování platebních operací,</td></tr><tr><td class='letter'>D</td><td class='answer'>úroková marže a provize za zprostředkování platebních operací.</td></tr></table><p class='align-right'>
+                    <br /><h2>Elementárním předpokladem fungujícího trhu cenných papírů je:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>účinná ochrana práv investorů,</td></tr><tr><td class='letter'>B</td><td class='answer'>privatizace,</td></tr><tr><td class='letter'>C</td><td class='answer'>nízká inflace,</td></tr><tr><td class='letter'>D</td><td class='answer'>deregulace.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/431'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/432'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

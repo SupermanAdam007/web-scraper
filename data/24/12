@@ -54,10 +54,10 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Lze použít k zajištění spotřebitelského úvěru směnku?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>ne, ale zákon specifikuje výjimku, kdy je možné směnkou zajistit spotřebitelský úvěr na bydlení,</td></tr><tr><td class='letter'>B</td><td class='answer'>ne, zákon to zakazuje,</td></tr><tr><td class='letter'>C</td><td class='answer'>ano, je to obvyklý způsob zajištění spotřebitelského úvěru na bydlení,</td></tr><tr><td class='letter'>D</td><td class='answer'>ano, je to alternativa k zajištění spotřebitelského úvěru šekem.</td></tr></table><p class='align-right'>
+                    <br /><h2>Které tvrzení ohledně pojištění schopnosti splácet spotřebitelský úvěr je pravdivé? </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Pojištění nechrání proti riziku dočasného či trvalého snížení příjmů spotřebitele, který je osobou samostatně výdělečně činnou.</td></tr><tr><td class='letter'>B</td><td class='answer'>Výše pojistného nezávisí na výši úvěru ani na výši splátky úvěru.</td></tr><tr><td class='letter'>C</td><td class='answer'>Pojištění schopnosti splácet nesmí obsahovat pojištění pro případ smrti.</td></tr><tr><td class='letter'>D</td><td class='answer'>Pojistné plnění při ztrátě zaměstnání je obvykle vypláceno ihned a po celou dobu trvání nezaměstnanosti.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/642'>následující otázka</a>
 <script type='text/javascript'>
 

@@ -20,15 +20,15 @@ function createDir(dname) {
 }
 
 function downQuestionsToDir($, newDirName) {
-    createDir(newDirName);
     $('a').each(
         function(j, elema) {
             wget({
                 url: baseurl + $(elema).attr('href'),
-                dest: newDirName + '/' + $(elema).text().split('.')[0]
+                dest: newDirName + '/' + j //$(elema).text().split('.')[0]
             });
-            console.log($(elema).attr('href'));
-            console.log($(elema).text());
+            //console.log($(elema).attr('href'));
+            //console.log($(elema).text());
+            console.log(newDirName + '/' + j/*$(elema).text().split('.')[0]*/);
         }
     );
 }
@@ -41,19 +41,25 @@ $ = cheerio.load($('#saccord').html(), { decodeEntities: false });
 var iter = 0;
 $('body').children().each(
     function(i, elem) {
+        var h3fname = __dirname + '/data/batch_head_' + iter + '.html';
+        var divfname = __dirname + '/data/batch_data_' + iter + '.html';
+        var newDirName = __dirname + '/data/' + iter;
+
         if (elem.name == "h3") {
-            saveFile(
-                __dirname + '/data/batch_head_' + iter + '.html', $(elem).html()
-            );
+            saveFile(h3fname, $(elem).html());
+            createDir(newDirName);
+            saveFile(newDirName + '/head.html', $(elem).html());
         }
         if (elem.name == "div") {
+            //fs.createReadStream('test.log').pipe(fs.createWriteStream('newLog.log'));
+
             saveFile(
-                __dirname + '/data/batch_data_' + iter + '.html', $(elem).html()
+                divfname, $(elem).html()
             );
 
             $ = cheerio.load($(elem).html(), { decodeEntities: false });
 
-            downQuestionsToDir($, __dirname + '/data/' + iter);
+            downQuestionsToDir($, newDirName);
 
             iter++;
         }

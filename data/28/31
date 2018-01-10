@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pokud spotřebitel projde prescoringem poskytovatele úvěru a zároveň zaplatí poplatek za vyhotovení odhadu, nicméně mu ještě poskytovatel nepředložil návrh smluvních podmínek, které mají být obsahem smlouvy o spotřebitelském úvěru na bydlení, má právní nárok na schválení úvěru?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>ano, na schválení úvěru je vždy právní nárok,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>ne, na schválení úvěru není právní nárok,</td></tr><tr><td class='letter'>C</td><td class='answer'>žádná odpověď není správná,</td></tr><tr><td class='letter'>D</td><td class='answer'>ano, ale musí se jednat o občana České republiky nebo cizince s trvalým pobytem v České republice.</td></tr></table><p class='align-right'>
+                    <br /><h2>Co se stane, pokud dlužník prokáže osmý rok od podpisu úvěrové smlouvy, že poskytovatel nedostatečně zkoumal úvěruschopnost spotřebitele?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>smlouva je neplatná,</td></tr><tr><td class='letter'>B</td><td class='answer'>věřitel nemá nárok na úroky či sankce,</td></tr><tr><td class='letter'>C</td><td class='answer'>spotřebitel má povinnost vrátit poskytnutou jistinu v době jemu přiměřené,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>nic, vše je již promlčeno.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1104'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1156'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

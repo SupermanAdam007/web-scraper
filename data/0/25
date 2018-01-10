@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Mezi investiční cenné papíry zahrnujeme:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>akcie, dlouhodobé bankovní dluhopisy,</td></tr><tr><td class='letter'>B</td><td class='answer'>státní pokladniční poukázky, komerční papíry, akcie, depozitní certifikáty,</td></tr><tr><td class='letter'>C</td><td class='answer'>depozitní certifikáty, komerční papíry,</td></tr><tr><td class='letter'>D</td><td class='answer'>dlouhodobé státní dluhopisy, akcie, státní pokladniční poukázky.</td></tr></table><p class='align-right'>
+                    <br /><h2>Mezi majetkové cenné papíry zahrnujeme:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>akcie a podílové listy,</td></tr><tr><td class='letter'>B</td><td class='answer'>státní pokladniční poukázky, komerční papíry, akcie, depozitní certifikáty,</td></tr><tr><td class='letter'>C</td><td class='answer'>státní pokladniční poukázky, akcie, opce, komerční papíry,</td></tr><tr><td class='letter'>D</td><td class='answer'>dluhopisy, hypoteční zástavní listy, akcie, podílové listy.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/436'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/437'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

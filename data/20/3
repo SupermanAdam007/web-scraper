@@ -54,10 +54,10 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Proti rozhodnutí finančního arbitra v podobě nálezu ve sporu o spotřebitelském úvěru:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>není možné podat žádný opravný prostředek, nález je okamžitě soudně vykonatelný,</td></tr><tr><td class='letter'>B</td><td class='answer'>je možné podat odvolání u Nejvyššího správního soudu,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>může účastník řízení podat námitky u finančního arbitra, po jejichž vypořádání je nález soudně vykonatelný,</td></tr><tr><td class='letter'>D</td><td class='answer'>může účastník řízení podat námitky u finančního arbitra, námitky však nemají odkladný účinek a nález je soudně vykonatelný.</td></tr></table><p class='align-right'>
+                    <br /><h2>Do působnosti finančního arbitra nepatří rozhodování sporů mezi spotřebitelem a: </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>zprostředkovatelem spotřebitelského úvěru při nabízení, poskytování nebo zprostředkování spotřebitelského úvěru nebo jiného úvěru, zápůjčky, či obdobné finanční služby,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>provozovatelem zastavárenské činnosti při poskytování úvěrů oproti zástavě a případném následném prodeji zastavené věci,</td></tr><tr><td class='letter'>C</td><td class='answer'>osobou provozující směnárenskou činnost při provádění směnárenského obchodu,</td></tr><tr><td class='letter'>D</td><td class='answer'>poskytovatelem úvěru ze stavebního spoření podle zákona upravujícího stavební spoření.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/58'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
 <script type='text/javascript'>
 

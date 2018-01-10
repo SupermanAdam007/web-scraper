@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Ohledně odstoupení od smlouvy o spotřebitelském úvěru jiném než na bydlení platí, že: </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>spotřebitel může od smlouvy odstoupit do 14 dnů ode dne uzavření smlouvy bez uvedení důvodů a bez jakékoliv sankce,</td></tr><tr><td class='letter'>B</td><td class='answer'>spotřebitel může od smlouvy odstoupit do 1 měsíce ode dne uzavření smlouvy, a to bez uvedení důvodů a bez jakékoliv sankce,</td></tr><tr><td class='letter'>C</td><td class='answer'>spotřebitel nemůže od platně uzavřené smlouvy odstoupit, ze zákona ho chrání pouze tzv. doba na rozmyšlenou.</td></tr><tr><td class='letter'>D</td><td class='answer'>spotřebitel může bez sankcí odstoupit od smlouvy do 2 měsíců ode dne uzavření smlouvy, ale pouze ze zákonem uznaných důvodů.</td></tr></table><p class='align-right'>
+                    <br /><h2>Je-li rozhodnutí obecného soudu pravomocné, má věřitel právo na:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>výkon rozhodnutí,</td></tr><tr><td class='letter'>B</td><td class='answer'>odvolání,</td></tr><tr><td class='letter'>C</td><td class='answer'>podání námitek proti pravomocnému rozhodnutí, pokud to zákon výslovně připouští,</td></tr><tr><td class='letter'>D</td><td class='answer'>účast při jednání.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/12'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/38'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/58'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

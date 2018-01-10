@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Kdo je věřitel?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>ten, kdo má pohledávku za dlužníkem,</td></tr><tr><td class='letter'>B</td><td class='answer'>ten, kdo si zapůjčil peněžní prostředky,</td></tr><tr><td class='letter'>C</td><td class='answer'>ten, kdo je odborně způsobilý,</td></tr><tr><td class='letter'>D</td><td class='answer'>ten, kdo je důvěryhodný.</td></tr></table><p class='align-right'>
+                    <br /><h2>Hlavním úkolem finančního trhu v tržní ekonomice je:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>zabezpečovat přesun volných finančních prostředků od přebytkových subjektů k deficitním subjektům,</td></tr><tr><td class='letter'>B</td><td class='answer'>garantovat pozitivní zhodnocení investovaného kapitálu,</td></tr><tr><td class='letter'>C</td><td class='answer'>snižovat inflaci,</td></tr><tr><td class='letter'>D</td><td class='answer'>umožnit realizaci bezhotovostního platebního styku mezi věřitelem a dlužníkem.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/643'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/711'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

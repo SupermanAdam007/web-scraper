@@ -54,11 +54,12 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Povinnou náležitostí smlouvy o převodu nemovité věci je:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>identifikace stran smlouvy,</td></tr><tr><td class='letter'>B</td><td class='answer'>konstatování, že v rámci kupní smlouvy není sjednáno předkupní právo,</td></tr><tr><td class='letter'>C</td><td class='answer'>ustanovení, kdo je plátcem daně z převodu nemovité věci,</td></tr><tr><td class='letter'>D</td><td class='answer'>ustanovení, že nebyly sjednány výhrady kupní ceny.</td></tr></table><p class='align-right'>
+                    <br /><h2>Kdy se nabývá zletilosti?
+</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>narozením,</td></tr><tr><td class='letter'>B</td><td class='answer'>dovršením 15. roku věku,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>dovršením 18. roku věku,</td></tr><tr><td class='letter'>D</td><td class='answer'>ukončením školní docházky.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/837'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1168'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

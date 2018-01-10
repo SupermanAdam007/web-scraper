@@ -54,12 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Kdy je v souvislosti se spotřebitelským úvěrem na bydlení vhodné životní pojištění s klesající pojistnou částkou?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Pokud jistina úvěru v průběhu splácení úvěru klesá.
-</td></tr><tr><td class='letter'>B</td><td class='answer'>Pokud je úplné splacení úvěru vázáno na prodej nemovitosti.</td></tr><tr><td class='letter'>C</td><td class='answer'>Pokud se u úvěru splácí pouze úroky a splátka celé jistiny je až na konci doby poskytnutého úvěru.</td></tr><tr><td class='letter'>D</td><td class='answer'>Pokud splátky úvěru v průběhu jeho splácení rostou.</td></tr></table><p class='align-right'>
+                    <br /><h2>Jaký je rozdíl mezi jednoduchým a složeným úročením?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>U jednoduchého úročení nedochází k úročení připsaných úroků z předchozích úrokových období.</td></tr><tr><td class='letter'>B</td><td class='answer'>Jednoduché úročení využívá geometrické posloupnosti při výpočtu úroků.</td></tr><tr><td class='letter'>C</td><td class='answer'>Složené úročení využívá aritmetické posloupnosti při výpočtu úroků.</td></tr><tr><td class='letter'>D</td><td class='answer'>U jednoduché úročení dochází k připisování úroků z úroků.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1032'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1087'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

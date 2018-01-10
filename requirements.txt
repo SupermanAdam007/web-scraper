@@ -1,2 +1,3 @@
 cheerio
 node-wget
+html-pdf

@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Co se ve finanční matematice označuje pojmem "složené úročení"?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>postup výpočtu úroku, při kterém se částky úroku dále neúročí, úrok se počítá stále z počáteční jistiny,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>postup výpočtu úroku, při kterém se po uplynutí každého úrokovacího období přičte úrok za toto období k úročené částce a v dalších úrokovacích obdobích se spolu s ní také dále úročí,</td></tr><tr><td class='letter'>C</td><td class='answer'>postup výpočtu úroku, při kterém se předpokládá rok dlouhý 360 dnů a měsíc dlouhý 30 dnů; označuje se také jako metoda 360/360,</td></tr><tr><td class='letter'>D</td><td class='answer'>postup výpočtu úroku, při kterém se předpokládá rok dlouhý 360 dnů a měsíc dlouhý skutečný počet dnů; označuje se také jako metoda ACT/360.</td></tr></table><p class='align-right'>
+                    <br /><h2>Úroková sazba kreditních karet se často používá s dovětkem "p.m." (např. 1,99 % p.m.). O jakou úrokovou míru se jedná?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>měsíční,</td></tr><tr><td class='letter'>B</td><td class='answer'>roční,</td></tr><tr><td class='letter'>C</td><td class='answer'>kvartální,</td></tr><tr><td class='letter'>D</td><td class='answer'>jedná se o sankční sazbu pro případ prodlení s řádnou splátkou.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/12'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/32'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/58'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

@@ -54,11 +54,12 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Dle zákona o spotřebitelském úvěru je za důvěryhodnou pro účely získání oprávnění k poskytování nebo zprostředkování spotřebitelského úvěru považována právnická osoba:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>která nebyla pravomocně odsouzena pro kterýkoliv trestný čin spáchaný neúmyslně,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>jejíž činnost dává předpoklad řádného provozování činnosti podle tohoto zákona,</td></tr><tr><td class='letter'>C</td><td class='answer'>která doloží, že žádný ze zaměstnanců nebyl v posledních 10 letech odsouzen pro trestný čin, jehož skutková podstata souvisí s provozem loterií nebo jiných podobných her,</td></tr><tr><td class='letter'>D</td><td class='answer'>jejíž činnost byla již před účinností tohoto zákona dohlížena orgánem dohledu.</td></tr></table><p class='align-right'>
+                    <br /><h2>Kdo je oprávněn zprostředkovávat spotřebitelský úvěr?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>samostatný zprostředkovatel, vázaný zástupce, zprostředkovatel vázaného spotřebitelského úvěru, zahraniční zprostředkovatel,</td></tr><tr><td class='letter'>B</td><td class='answer'>samostatný zprostředkovatel, pojišťovací zprostředkovatel, investiční zprostředkovatel, vázaný zástupce, zprostředkovatel vázaného spotřebitelského úvěru a zahraniční zprostředkovatel,</td></tr><tr><td class='letter'>C</td><td class='answer'>samostatný zprostředkovatel a poskytovatel a jejich vázaní zástupci, zprostředkovatel vázaného spotřebitelského úvěru, zahraniční zprostředkovatel,
+</td></tr><tr><td class='letter'>D</td><td class='answer'>jen tuzemský samostatný zprostředkovatel, vázaný zástupce a zprostředkovatel vázaného spotřebitelského úvěru.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/410'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

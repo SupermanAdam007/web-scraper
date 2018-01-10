@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pokud poskytovatel podmiňuje poskytnutí úvěru uzavřením pojištění schopnosti splácet, placení pojistného v tomto případě:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>zvyšuje hodnotu RPSN,</td></tr><tr><td class='letter'>B</td><td class='answer'>snižuje hodnotu RPSN,</td></tr><tr><td class='letter'>C</td><td class='answer'>nezmění hodnotu RPSN,</td></tr><tr><td class='letter'>D</td><td class='answer'>nedokážeme bez znalosti jeho výše přesně určit.</td></tr></table><p class='align-right'>
+                    <br /><h2>Kdy se do celkových nákladů spotřebitelského úvěru započítávají náklady na doplňkové služby?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>je-li uzavření smlouvy o doplňkové službě povinné pro získání spotřebitelského úvěru za nabízených podmínek,</td></tr><tr><td class='letter'>B</td><td class='answer'>náklady na doplňkové služby nelze započítat v žádném případě,</td></tr><tr><td class='letter'>C</td><td class='answer'>vždy, jde-li o pojištění schopnosti splácet spotřebitelský úvěr,</td></tr><tr><td class='letter'>D</td><td class='answer'>vždy, když jde o náklady na zřízení nebo vedení účtu.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/366'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

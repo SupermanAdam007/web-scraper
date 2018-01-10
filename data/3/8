@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Způsob splácení úvěru, při kterém se v čase v rámci splátky zvyšuje podíl úmorů a snižuje podíl úroků, nazýváme:</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>diskontní,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>anuitní,</td></tr><tr><td class='letter'>C</td><td class='answer'>eskontní,</td></tr><tr><td class='letter'>D</td><td class='answer'>úrokově lineární.</td></tr></table><p class='align-right'>
+                    <br /><h2>Hedging se uplatňuje:</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>jako zajištění proti riziku cenových změn,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>u komodit obchodovaných na burze, cenných papírů a u měnových kurzů,</td></tr><tr><td class='letter'>C</td><td class='answer'>jako zajištění proti operačnímu riziku,</td></tr><tr><td class='letter'>D</td><td class='answer'>u promptních obchodů.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správné odpovědi</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/711'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1032'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

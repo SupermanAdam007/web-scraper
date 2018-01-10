@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pokud ještě nebyla dohodnuta horní hranice spotřebitelského úvěru, pro výpočet roční procentní sazby nákladů platí, že je :</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>170 000 eur,</td></tr><tr><td class='letter'>B</td><td class='answer'>150 000 eur,</td></tr><tr><td class='letter'>C</td><td class='answer'>130 000 eur,</td></tr><tr><td class='letter'>D</td><td class='answer'>100 000 eur.</td></tr></table><p class='align-right'>
+                    <br /><h2>Výše úrokové sazby spotřebitelského úvěru závisí na:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>typu spotřebitelského úvěru, např. zda je úvěr poskytovaný jako účelový nebo neúčelový,</td></tr><tr><td class='letter'>B</td><td class='answer'>bonitě klienta vypočtené dle vzorce ve vyhlášce České národní banky,</td></tr><tr><td class='letter'>C</td><td class='answer'>hodnotě tzv. Indexu bonity klientů nebankovního registru dlužníků,</td></tr><tr><td class='letter'>D</td><td class='answer'>výši úrokové sazby podle rizikového typu spotřebitele na základě standardu stanoveného Českou národní bankou z pravidel Basel III.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/578'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Na majetek pana Nováka byla nařízena exekuce formou prodeje věci. Kterých věcí se exekuce může týkat? </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>zlaté zubní protézy.</td></tr><tr><td class='letter'>B</td><td class='answer'>běžného oblečení,</td></tr><tr><td class='letter'>C</td><td class='answer'>půjčené travní sekačky,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>lyží.</td></tr></table><p class='align-right'>
+                    <br /><h2>U pana Nováka probíhala exekuce. Exekutor zabavil také počítač, který pan Novák nezbytně potřebuje ke své práci. Jak se může pan Novák bránit? </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>Bez zbytečného odkladu podá písemnou stížnost na postup exekutora k exekutorské komoře.</td></tr><tr><td class='letter'>B</td><td class='answer'>Do 14 dnů podá u soudu návrh na vyškrtnutí neoprávněně zapsaných věcí v soupisu movitých věcí.</td></tr><tr><td class='letter'>C</td><td class='answer'>Podá k věřiteli do 7 dnů žádost o vrácení neoprávněně zabavených věcí podle soupisu movitých věcí.</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>Do 30 dnů podá exekutorovi návrh na vyškrtnutí neoprávněně zapsaných věcí ze soupisu movitých věcí.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1232'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1234'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

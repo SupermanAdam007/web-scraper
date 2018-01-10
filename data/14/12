@@ -54,10 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Může být vystavení tabulky umoření spotřebitelského úvěru na žádost spotřebitele spojeno s úplatou?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>Ano, tato služba může být spojena s poplatkem.
-</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>Ne, spotřebitel tak může učinit kdykoli a má nárok získat ji bezplatně.
-</td></tr><tr><td class='letter'>C</td><td class='answer'>Ano, spotřebitel tak může učinit kdykoli, ale pouze první výtisk mu bude poskytnut zdarma.</td></tr><tr><td class='letter'>D</td><td class='answer'>Ne, úplnou tabulku umoření je však banka spotřebiteli povinna poskytnout až po úplném splacení úvěru.
-</td></tr></table><p class='align-right'>
+                    <br /><h2>Informace o mimosoudním řešení spotřebitelských sporů prostřednictvím finančního arbitra:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>musí být součástí úvěrové smlouvy v případě, že spotřebitel o to požádá,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>musí být vždy součástí úvěrové smlouvy,</td></tr><tr><td class='letter'>C</td><td class='answer'>nesmí být dle zákona o spotřebitelském úvěru součástí úvěrové smlouvy, protože by zvýhodňovala spotřebitele,</td></tr><tr><td class='letter'>D</td><td class='answer'>není upravena jako součást zákona o spotřebitelském úvěru.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>

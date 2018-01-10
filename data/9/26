@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Mezi postupy a pravidla vhodné z hlediska řádného poskytování spotřebitelského úvěru, které je nebankovní poskytovatel spotřebitelského úvěru povinen zavést a udržovat, nepatří:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>pravidla pro vyřizování stížností a reklamací spotřebitelů,</td></tr><tr><td class='letter'>B</td><td class='answer'>pravidla pro jednání se spotřebiteli, kteří jsou v prodlení,</td></tr><tr><td class='letter'>C</td><td class='answer'>pravidla kontroly činnosti osob, jejichž prostřednictvím nebankovní poskytovatel spotřebitelského úvěru poskytuje spotřebitelský úvěr,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>pravidla pro výpočet roční procentní sazby nákladů.</td></tr></table><p class='align-right'>
+                    <br /><h2>Co je dluhopis?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>opravný daňový doklad,</td></tr><tr><td class='letter'>B</td><td class='answer'>potvrzení o uznání dluhu,</td></tr><tr><td class='letter'>C</td><td class='answer'>potvrzení o uhrazení dluhu v určité výši,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>dluhový cenný papír.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/642'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/761'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

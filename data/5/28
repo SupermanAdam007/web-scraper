@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Dokumenty prokazující splnění podmínek stanovených zákonem pro činnost vázaného zástupce uchovává zastoupený:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>po dobu trvání zápisu v registru a nejméně po dobu 5 let ode dne jeho zrušení,</td></tr><tr><td class='letter'>B</td><td class='answer'>po dobu trvání zápisu v registru a nejméně po dobu 15 let ode dne jeho zrušení,</td></tr><tr><td class='letter'>C</td><td class='answer'>po dobu trvání zápisu v registru,</td></tr><tr><td class='letter'>D</td><td class='answer'>po dobu trvání zápisu v registru a nejméně po dobu 1 roku ode dne jeho zrušení.</td></tr></table><p class='align-right'>
+                    <br /><h2>Co znamená, když je úvěr v defaultu?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>Úvěr je ve schvalovacím procesu.</td></tr><tr><td class='letter'>B</td><td class='answer'>Úvěr je zamítnutý.</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>Úvěr je nesplácený.</td></tr><tr><td class='letter'>D</td><td class='answer'>Žadatelem o úvěr je cizinec.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/837'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1156'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

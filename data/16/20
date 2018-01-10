@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Spotřebitel je oprávněn vypovědět spotřebitelský úvěr sjednaný na dobu neurčitou kdykoli, s výpovědní dobou, která:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>není omezena,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>nesmí být delší než 1 měsíc,</td></tr><tr><td class='letter'>C</td><td class='answer'>nesmí být kratší než 2 měsíce,</td></tr><tr><td class='letter'>D</td><td class='answer'>nesmí být kratší než 3 měsíce.</td></tr></table><p class='align-right'>
+                    <br /><h2>Hypoteční úvěr s pevnou úrokovou sazbou na 5 let, sjednaný před účinností zákona č. 257/2016 Sb., o spotřebitelském úvěru, je předčasně splacen 2 dny po první refixaci úrokové sazby po nabytí účinnosti zákona. Je toto předčasné splacení pro spotřebitele zdarma?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>ano, má nárok na předčasné splacení zdarma,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>ne, protože takové předčasné splacení nesplňuje podmínky pro předčasné splacení zdarma,</td></tr><tr><td class='letter'>C</td><td class='answer'>ano, klient má podle nové právní úpravy nárok na předčasné splacení zdarma, pokud banku o svém kroku předem písemně informuje,</td></tr><tr><td class='letter'>D</td><td class='answer'>ano, pokud se jedná o předčasné splacení v důsledku úmrtí, dlouhodobé nemoci, invalidity nebo rozvodu partnera dlužníka, pokud tato skutečnost vede k výraznému snížení schopnosti spotřebitele splácet spotřebitelský úvěr na bydlení.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/837'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1156'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

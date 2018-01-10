@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Které tvrzení o posouzení úvěruschopnosti spotřebitele není pravdivé?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Povinnost posoudit úvěruschopnost spotřebitele se vztahuje pouze na poskytnutí nového úvěru, v případě navýšení celkové výše stávajícího spotřebitelského úvěru již takováto povinnost neexistuje.</td></tr><tr><td class='letter'>B</td><td class='answer'>Poskytovatel poskytne spotřebitelský úvěr jen tehdy, pokud z výsledku posouzení úvěruschopnosti spotřebitele vyplývá, že nejsou důvodné pochybnosti o schopnosti spotřebitele spotřebitelský úvěr splácet.</td></tr><tr><td class='letter'>C</td><td class='answer'>Poskytovatel při posouzení úvěruschopnosti spotřebitele posuzuje zejména schopnost spotřebitele splácet sjednané pravidelné splátky spotřebitelského úvěru, a to na základě porovnání příjmů a výdajů spotřebitele a způsobu plnění dosavadních dluhů.</td></tr><tr><td class='letter'>D</td><td class='answer'>Poskytovatel posoudí úvěruschopnost spotřebitele na základě nezbytných, spolehlivých, dostatečných a přiměřených informací získaných od spotřebitele, a pokud je to nezbytné, z databáze umožňující posouzení úvěruschopnosti spotřebitele nebo i z jiných zdrojů.</td></tr></table><p class='align-right'>
+                    <br /><h2>Posouzení úvěruschopnosti spotřebitele poskytovatelem znamená:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>vysvětlit spotřebiteli, do kdy bude úvěr splácet.</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>zjistit, jestli bude spotřebitel schopen úvěr pravděpodobně splácet,</td></tr><tr><td class='letter'>C</td><td class='answer'>zjistit, jestli je spotřebitel schopen poskytovat úvěry,</td></tr><tr><td class='letter'>D</td><td class='answer'>vysvětlit spotřebiteli, jakou sazbu a poplatky bude splácet.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/642'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/761'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

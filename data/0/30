@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Alokační efektivností finančního trhu se rozumí:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>alokace peněžních prostředků k jednotkám s nejvyšším rizikově očištěným výnosem,</td></tr><tr><td class='letter'>B</td><td class='answer'>alokace peněžních prostředků při co nejnižších nákladech,</td></tr><tr><td class='letter'>C</td><td class='answer'>alokace peněžních prostředků mezi co největší počet subjektů,</td></tr><tr><td class='letter'>D</td><td class='answer'>alokace peněžních prostředků mezi co nejmenší počet subjektů.</td></tr></table><p class='align-right'>
+                    <br /><h2>Mezi charakteristické rysy krátkodobých dluhových instrumentů nepatří:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>velmi nízká likvidita,</td></tr><tr><td class='letter'>B</td><td class='answer'>sekuritizovaná podoba,</td></tr><tr><td class='letter'>C</td><td class='answer'>vysoká flexibilita,</td></tr><tr><td class='letter'>D</td><td class='answer'>jsou obchodovány na sekundárních trzích.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/441'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/495'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

@@ -54,7 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Doložku přímé vykonatelnosti lze uzavřít u:</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>příslušného policejního oddělení,</td></tr><tr><td class='letter'>B</td><td class='answer'>arbitra,</td></tr><tr><td class='letter'>C</td><td class='answer'>exekutora,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>notáře.</td></tr></table><p class='align-right'>
+                    <br /><h2>Doložka přímé vykonatelnosti, neboli exekuční doložka, může mít dle současné právní úpravy formu:</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>zápisu do katastru nemovitostí,</td></tr><tr><td class='letter'>B</td><td class='answer'>veřejné listiny,</td></tr><tr><td class='letter'>C</td><td class='answer'>exekutorského zápisu,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>notářského zápisu.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správné odpovědi</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>

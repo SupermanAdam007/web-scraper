@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pro účely výpočtu roční procentní sazby nákladů se použijí celkové náklady spotřebitelského úvěru s výjimkou nákladů:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>splatných spotřebitelem v důsledku neplnění některé z povinností stanovených ve smlouvě o spotřebitelském úvěru,</td></tr><tr><td class='letter'>B</td><td class='answer'>na ocenění nemovité věci, je-li pro získání spotřebitelského úvěru nezbytné,</td></tr><tr><td class='letter'>C</td><td class='answer'>na pojištění jako doplňkové služby, je-li uzavření pojistné smlouvy povinné,</td></tr><tr><td class='letter'>D</td><td class='answer'>souvisejících s uzavřením smlouvy o spotřebitelském úvěru.</td></tr></table><p class='align-right'>
+                    <br /><h2>Co jsou celkové náklady spotřebitelského úvěru?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Jsou to veškeré náklady, které spotřebitel musí zaplatit v souvislosti se spotřebitelským úvěrem a které jsou poskytovateli známy, s výjimkou nákladů na notáře.</td></tr><tr><td class='letter'>B</td><td class='answer'>Je to součet jistiny, úroků a poplatků na notáře, které musí spotřebitel zaplatit.</td></tr><tr><td class='letter'>C</td><td class='answer'>Jsou to veškeré náklady, které musí spotřebitel zaplatit při poskytnutí spotřebitelského úvěru, s výjimkou daní.</td></tr><tr><td class='letter'>D</td><td class='answer'>Jsou to veškeré náklady, které musí spotřebitel zaplatit při poskytnutí spotřebitelského úvěru, s výjimkou pojištění nemovitosti.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/410'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

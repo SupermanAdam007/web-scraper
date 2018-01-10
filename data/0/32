@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Který subjekt může v některých případech pomoci s řešením deficitní finanční situace?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>leasingové společnosti,</td></tr><tr><td class='letter'>B</td><td class='answer'>penzijní společnosti,</td></tr><tr><td class='letter'>C</td><td class='answer'>směnárny,</td></tr><tr><td class='letter'>D</td><td class='answer'>pojišťovny.</td></tr></table><p class='align-right'>
+                    <br /><h2>Podle sektorů lze finanční trh členit na:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>kapitálový trh, pojišťovnictví, úvěrové instituce, penzijní systém,</td></tr><tr><td class='letter'>B</td><td class='answer'>měnový a komoditní,</td></tr><tr><td class='letter'>C</td><td class='answer'>úvěrový a zápůjčkový,</td></tr><tr><td class='letter'>D</td><td class='answer'>regulovaný a neregulovaný.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/578'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

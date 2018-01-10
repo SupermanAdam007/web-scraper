@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pan Novák uzavřel u exekutora smlouvu s věřitelem, která obsahuje doložku přímé vykonatelnosti. Co to pro pana Nováka znamená?  </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>Sepsáním této smlouvy dochází k zahájení exekuce.</td></tr><tr><td class='letter'>B</td><td class='answer'>Exekutor se zavazuje dohlížet na to, že bude pan Novák řádně a včas splácet.</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>Nic. Exekuční doložku lze uzavřít pouze před notářem.</td></tr><tr><td class='letter'>D</td><td class='answer'>V případě prodlení pana Nováka se splácením lze přistoupit rovnou k exekuci.</td></tr></table><p class='align-right'>
+                    <br /><h2>Jaké výhody má pro klienta, pokud odmítne podepsat doložku přímé vykonatelnosti v souvislosti se smlouvou o úvěru, pokud s věřitelem jinak souhlasí a samotnou smlouvu podepíší?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>Klient není povinen splácet jistinu úvěru.</td></tr><tr><td class='letter'>B</td><td class='answer'>Věřitel nemá právo využít k exekuci soudního exekutora.</td></tr><tr><td class='letter'>C</td><td class='answer'>Věřitel se vzdal práva zpochybňovat nároky dlužníka před soudem v rámci případného nalézacího řízení.</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>V případě vzniku sporu není dotčeno jeho právo bránit se před soudem v rámci případného nalézacího řízení.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1223'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1224'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

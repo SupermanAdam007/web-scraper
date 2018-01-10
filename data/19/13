@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Co se stane s nesplacenými dluhy, které zbyly po zpeněžení dlužníkova majetku v konkursu? </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>Zaniknou.</td></tr><tr><td class='letter'>B</td><td class='answer'>Uhradí je stát.</td></tr><tr><td class='letter'>C</td><td class='answer'>Nezaniknou, ale dlužník není povinen je splácet.</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>Nezaniknou, dlužník je nadále povinen je splácet.</td></tr></table><p class='align-right'>
+                    <br /><h2>Spotřebitel uzavřel u notáře smlouvu s věřitelem, která obsahuje doložku přímé vykonatelnosti. Co to pro spotřebitele znamená?  </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>Sepsáním této smlouvy dochází k zahájení insolvenčního řízení.</td></tr><tr><td class='letter'>B</td><td class='answer'>Notář se zavazuje dohlížet na to, že spotřebitel bude řádně a včas splácet.</td></tr><tr><td class='letter'>C</td><td class='answer'>Spotřebitel nesmí splácet dluh, dokud k tomu není výslovně vyzván.</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>V případě prodlení spotřebitele se splácením lze přistoupit rovnou k exekuci.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1219'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1222'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

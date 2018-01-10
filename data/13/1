@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pobídkou se dle zákona o spotřebitelském úvěru rozumí:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>odměna či jiná peněžitá či nepeněžitá výhoda nabízená či přijímaná poskytovatelem či zprostředkovatelem, která může vést k porušení povinnosti stanovené v části VI zákona o spotřebitelském úvěru,</td></tr><tr><td class='letter'>B</td><td class='answer'>odměna, kterou inkasuje zprostředkovatel za poskytnutí své služby,</td></tr><tr><td class='letter'>C</td><td class='answer'>odměna, kterou inkasuje poskytovatel za poskytnutí úvěru,</td></tr><tr><td class='letter'>D</td><td class='answer'>žádná z výše uvedených odpovědí není pravdivá.</td></tr></table><p class='align-right'>
+                    <br /><h2>Poskytovatel a zprostředkovatel nesmí v souvislosti se svou činností přijmout, nabídnout nebo poskytnout pobídku, která:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>může vést k porušení povinnosti jednat s odbornou péčí,</td></tr><tr><td class='letter'>B</td><td class='answer'>může vést k porušení smlouvy o zprostředkování,</td></tr><tr><td class='letter'>C</td><td class='answer'>může vést k porušení podmínek poskytnutí spotřebitelského úvěru,</td></tr><tr><td class='letter'>D</td><td class='answer'>může vést k porušení ohlašovací povinnosti při provádění finančních transakcí.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/578'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

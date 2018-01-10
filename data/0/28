@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Mezi nejdůležitější investory na světových trzích cenných papírů patří:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>subjekty kolektivního investování a penzijní fondy,</td></tr><tr><td class='letter'>B</td><td class='answer'>komerční banky,</td></tr><tr><td class='letter'>C</td><td class='answer'>subjekty veřejného sektoru,</td></tr><tr><td class='letter'>D</td><td class='answer'>Mezinárodní měnový fond a Světová banka.</td></tr></table><p class='align-right'>
+                    <br /><h2>Maržové obchodování (margin trading) představuje:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>kombinované investování do cenných papírů z vlastních a vypůjčených finančních prostředků,</td></tr><tr><td class='letter'>B</td><td class='answer'>investování do instrumentů kolektivního investování,</td></tr><tr><td class='letter'>C</td><td class='answer'>investování do penzijních fondů,</td></tr><tr><td class='letter'>D</td><td class='answer'>kombinované investování do instrumentů kolektivního investování a penzijních fondů.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/439'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/440'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

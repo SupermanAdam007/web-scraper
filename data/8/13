@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Podle zákona o ochraně spotřebitele může být za spotřebitele považována:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>pouze fyzická osoba, která nejedná v rámci své podnikatelské činnosti nebo v rámci samostatného výkonu svého povolání,</td></tr><tr><td class='letter'>B</td><td class='answer'>jakákoliv fyzická i právnická osoba, která nakupuje výrobky nebo služby od osoby, která je podnikatelem,</td></tr><tr><td class='letter'>C</td><td class='answer'>jakákoliv fyzická osoba,</td></tr><tr><td class='letter'>D</td><td class='answer'>podnikatel, který spotřebiteli prodává výrobky nebo poskytuje služby.</td></tr></table><p class='align-right'>
+                    <br /><h2>Obchodní praktiky jsou považovány za klamavé, pokud poskytovatel nebo zprostředkovatel úvěru:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>nepravdivě uvádí, že výrobek nebo služba budou nabízeny pouze po omezenou dobu s cílem přimět spotřebitele k okamžitému rozhodnutí,</td></tr><tr><td class='letter'>B</td><td class='answer'>odmítne uzavřít smlouvu o úvěru na bydlení týž den, kdy ho klient s tímto záměrem poprvé navštívil,</td></tr><tr><td class='letter'>C</td><td class='answer'>odmítne uzavřít smlouvu o úvěru, protože spotřebitel odmítnul poskytnout údaje potřebné pro posouzení úvěruschopnosti,</td></tr><tr><td class='letter'>D</td><td class='answer'>upozorňuje zákazníky na rizika předlužení, čímž odradí některé zájemce o úvěr.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/642'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1032'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

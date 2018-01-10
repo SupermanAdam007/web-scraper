@@ -54,8 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Musí reklama úvěru jiného než na bydlení, jejíž součástí není jakýkoliv číselný údaj o jeho nákladech, obsahovat údaje o zprostředkovateli úvěru?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>ano, v případě, že výše úvěru přesahuje částku 5 000 Kč,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>ne,</td></tr><tr><td class='letter'>C</td><td class='answer'>ano, vždy,</td></tr><tr><td class='letter'>D</td><td class='answer'>ano, v případech, kdy je to relevantní.
-</td></tr></table><p class='align-right'>
+                    <br /><h2>Předsmluvní informace je:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>pouze opis reklamní nabídky,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>konkrétní nabídka poskytnutá na základě informací získaných od klienta a dle požadavků klienta,</td></tr><tr><td class='letter'>C</td><td class='answer'>vzor smlouvy o úvěru,</td></tr><tr><td class='letter'>D</td><td class='answer'>formulář nabízený jen v případě spotřebitelského úvěru na bydlení.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>

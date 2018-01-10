@@ -54,10 +54,10 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Podmínkou, kterou musí žadatel splnit, aby bylo zahájeno řízení o udělení oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru, je: </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>elektronická žádost podaná u České národní banky,</td></tr><tr><td class='letter'>B</td><td class='answer'>registrace žadatele u živnostenského úřadu,</td></tr><tr><td class='letter'>C</td><td class='answer'>registrace žadatele u Ministerstva financí ČR,</td></tr><tr><td class='letter'>D</td><td class='answer'>písemná žádost podaná u České obchodní inspekce.</td></tr></table><p class='align-right'>
+                    <br /><h2>Oprávnění k činnosti samostatného zprostředkovatele zaniká:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>v důsledku zániku závazku mezi ním a zastoupeným,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>uplynutím doby trvání oprávnění s tím, že nedošlo k prodloužení oprávnění,</td></tr><tr><td class='letter'>C</td><td class='answer'>v případě, že zprostředkovatel nezačal vyvíjet svoji činnost nejpozději do 3 měsíců ode dne získání oprávnění k činnosti,</td></tr><tr><td class='letter'>D</td><td class='answer'>žádná z výše uvedených odpovědí není pravdivá.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1693'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1'>předchozí otázka</a>
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/32'>následující otázka</a>
 <script type='text/javascript'>
 

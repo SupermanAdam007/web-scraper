@@ -1,0 +1,2 @@
+chrome --headless --disable-gpu --print-to-pdf https://www.chromestatus.com/
+for %f in (*.html) do chrome --headless --print-to-pdf="1.pdf" "file:///C:/Users/adamp/Documents/andrea_skoleni/result/all-30.html"

@@ -54,7 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Smlouva o spotřebitelském úvěru na bydlení:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>musí být písemná,</td></tr><tr><td class='letter'>B</td><td class='answer'>nemusí být písemná,</td></tr><tr><td class='letter'>C</td><td class='answer'>musí být uzavřena v přítomnosti notáře,</td></tr><tr><td class='letter'>D</td><td class='answer'>musí být uzavřena v přítomnosti právního zástupce žadatele o hypoteční úvěr.</td></tr></table><p class='align-right'>
+                    <br /><h2>Smlouva o spotřebitelském úvěru nemusí obsahovat:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>výši příjmu spotřebitele,</td></tr><tr><td class='letter'>B</td><td class='answer'>veškeré předpoklady použité pro výpočet RPSN,</td></tr><tr><td class='letter'>C</td><td class='answer'>informaci o způsobu ukončení smluvního vztahu,</td></tr><tr><td class='letter'>D</td><td class='answer'>důsledky vyplývající z prodlení spotřebitele. </td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/40'>předchozí otázka</a>

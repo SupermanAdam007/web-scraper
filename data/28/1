@@ -54,10 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pokud je žádost spotřebitele zamítnuta z důvodu informace získané z externí databáze vypovídající o úvěruschopnosti spotřebitele, je věřitel povinen spotřebitele informovat, o jakou databázi se jedná?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>ano, pokud neexistuje současně jiný důvod zamítnutí,</td></tr><tr><td class='letter'>B</td><td class='answer'>ne,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>ano,</td></tr><tr><td class='letter'>D</td><td class='answer'>ne, pokud klient současně neuhradí poplatek spojený se získáním informace.</td></tr></table><p class='align-right'>
+                    <br /><h2>Úvěruschopnost spotřebitele je třeba posoudit před:
+</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>každou změnou závazku ze smlouvy o spotřebitelském úvěru,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>změnou závazku ze smlouvy o spotřebitelském úvěru spočívající ve významném navýšení celkové výše spotřebitelského úvěru,</td></tr><tr><td class='letter'>C</td><td class='answer'>změnou závazku ze smlouvy o spotřebitelském úvěru v důsledku významného částečného předčasného splacení spotřebitelského úvěru,</td></tr><tr><td class='letter'>D</td><td class='answer'>žádná z uvedených možností není správná.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/40'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
 <script type='text/javascript'>
 

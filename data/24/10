@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Co znamená termín "vinkulace" využívaný v souvislosti s pojištěním?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Jedná se o zastavení pohledávky, jejímž předmětem je pojistné plnění, zpravidla ve prospěch poskytovatele úvěru.</td></tr><tr><td class='letter'>B</td><td class='answer'>Jedná se o soubor činností spojených s vyřizováním pojistné události, který počíná zahájením šetření nutného ke zjištění povinnosti pojišťovny plnit a rozsahu této povinnosti.</td></tr><tr><td class='letter'>C</td><td class='answer'>Jedná se o soubor činností spočívajících ve vymáhání pojistného plnění po osobách, kterým bylo neoprávněně vyplaceno.</td></tr><tr><td class='letter'>D</td><td class='answer'>Jedná se o soubor činností spočívajících ve snaze zabránit výplatě pojistného plnění osobám, u nichž se pojistitel domnívá, že spáchaly pojistný podvod.</td></tr></table><p class='align-right'>
+                    <br /><h2>Kdy se zahrnují do celkových nákladů spotřebitelského úvěru náklady na doplňkové služby, jako je zejména pojistné?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>když je uzavření smlouvy o doplňkové službě povinné,</td></tr><tr><td class='letter'>B</td><td class='answer'>vžd,y když vznikají náklady na doplňkové služby, i když je uzavření smlouvy o doplňkové službě nepovinné,</td></tr><tr><td class='letter'>C</td><td class='answer'>nikdy, protože náklady na doplňkové služby se do celkových nákladů spotřebitelského úvěru nezahrnují,</td></tr><tr><td class='letter'>D</td><td class='answer'>vždy, když je uzavření smlouvy o doplňkové službě nepovinné.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/495'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

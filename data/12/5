@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Zprostředkovatel spotřebitelského úvěru při jeho zprostředkování:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>uchovává zejména smlouvy o zprostředkování spotřebitelského úvěru,</td></tr><tr><td class='letter'>B</td><td class='answer'>uchovává jen takové doklady, na jejichž archivaci se písemně domluví s  poskytovatelem,</td></tr><tr><td class='letter'>C</td><td class='answer'>uchovává zejména smlouvy o poskytování spotřebitelského úvěru,</td></tr><tr><td class='letter'>D</td><td class='answer'>uchovává smlouvy pouze v případě ručení majetkem.</td></tr></table><p class='align-right'>
+                    <br /><h2>Poskytovatel spotřebitelského úvěru:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>jedná se spotřebiteli čestně, transparentně a zohledňuje práva a zájmy spotřebitele,</td></tr><tr><td class='letter'>B</td><td class='answer'>v jednání se spotřebitelem dodržuje pravidla společenského chování a šetří práva spotřebitele,</td></tr><tr><td class='letter'>C</td><td class='answer'>jedná se spotřebitelem podle pravidel obezřetného podnikání Basel III,</td></tr><tr><td class='letter'>D</td><td class='answer'>jedná se spotřebitelem podle standardů Evropské bankovní federace.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/578'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

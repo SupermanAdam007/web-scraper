@@ -54,7 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Z pojištění odpovědnosti z provozu vozidla se hradí:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>škody na vozidle, kterým byla škoda způsobena,</td></tr><tr><td class='letter'>B</td><td class='answer'>újma, kterou utrpěl řidič vozidla, jehož vozidlem byla újma způsobena,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>způsobená újma vzniklá ublížením na zdraví nebo usmrcením,</td></tr><tr><td class='letter'>D</td><td class='answer'>majetková škoda, kterou pojištěný způsobil osobám, které s ním v době vzniku škody žily ve společné domácnosti. </td></tr></table><p class='align-right'>
+                    <br /><h2>Existenci pojištění odpovědnosti z provozu vozidla prokazuje řidič vozidla:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>velkým technickým průkazem,</td></tr><tr><td class='letter'>B</td><td class='answer'>malým technickým průkazem,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>zelenou kartou,</td></tr><tr><td class='letter'>D</td><td class='answer'>pojistnou smlouvou.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>

@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Zprostředkovatel má povinnost uchovávat smlouvy o zprostředkování spotřebitelského úvěru:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>vždy po dobu jednoho roku, poté má možnost dokumenty archivovat nebo je znehodnotit,</td></tr><tr><td class='letter'>B</td><td class='answer'>neomezeně v případě prokázání podvodného jednání ze strany spotřebitele,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>v případě, že tak nečiní poskytovatel,</td></tr><tr><td class='letter'>D</td><td class='answer'>zprostředkovatel nemá povinnost smlouvy o zprostředkování spotřebitelského úvěru uchovávat.</td></tr></table><p class='align-right'>
+                    <br /><h2>Po jak dlouhou dobu poskytovatel a zprostředkovatel uchovává dokumenty a záznamy nezbytné pro hodnověrné osvědčení řádného plnění povinností podle zákona o spotřebitelském úvěru?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>nejméně 5 let ode dne, kdy zanikl právní vztah nebo došlo k jednání, na jehož základě tyto dokumenty nebo záznamy vznikly, nebo 1 rok ode dne, kdy byla žádost spotřebitele o poskytnutí spotřebitelského úvěru zamítnuta,</td></tr><tr><td class='letter'>B</td><td class='answer'>nejméně 10 let ode dne, kdy zanikl právní vztah nebo došlo k jednání, na jehož základě tyto dokumenty nebo záznamy vznikly, nebo 5 let ode dne, kdy byla žádost spotřebitele o poskytnutí spotřebitelského úvěru zamítnuta,</td></tr><tr><td class='letter'>C</td><td class='answer'>minimálně 5 let od okamžiku rozhodnutí, zda byl úvěr schválen či nikoli; ke skutečnému poskytnutí finančních prostředků se nepřihlíží,</td></tr><tr><td class='letter'>D</td><td class='answer'>minimálně 5 let od okamžiku podpisu úvěrové smlouvy.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/410'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Může být samostatný zprostředkovatel, který je fyzickou osobou, při své činnosti zastoupen?</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>ano, ale pouze prokuristou, zaměstnancem nebo vázaným zástupcem,</td></tr><tr><td class='letter'>B</td><td class='answer'>ne,</td></tr><tr><td class='letter'>C</td><td class='answer'>ano, ale pouze vázaným zástupcem,</td></tr><tr><td class='letter'>D</td><td class='answer'>ano, ale pouze prokuristou.</td></tr></table><p class='align-right'>
+                    <br /><h2>Co je to kupní smlouva?</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Je to smlouva, kterou se prodávající zavazuje, že kupujícímu odevzdá věc, která je předmětem koupě, a umožní mu nabýt vlastnické právo k ní, a kupující se zavazuje, že věc převezme a zaplatí prodávajícímu kupní cenu.</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>Kupní smlouva je právní akt, v němž se dvě nebo více stran zavazují odevzdat předmět kupní smlouvy kupujícímu a umožnit mu nabýt vlastnické právo a kupující se zavazuje věc převzít a zaplatit prodávajícímu podle podmínek smlouvy a zákona.</td></tr><tr><td class='letter'>C</td><td class='answer'>Kupní smlouva je ujednání mezi dvěma stranami o koupi a prodeji movitých věcí a nemá oporu v zákonu.</td></tr><tr><td class='letter'>D</td><td class='answer'>Je to dobrovolné ujednání dvou stran, které nemá zákonem stanovenou strukturu ani obsah a je na prodávajícím a kupujícím, co si v kupní smlouvě ustanoví.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správné odpovědi</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/642'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

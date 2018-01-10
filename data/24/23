@@ -54,7 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pojistná smlouva o životním pojištění byla uzavřena na dálku. V jaké lhůtě od obdržení sdělení o uzavření smlouvy na dálku může pojistník od pojistné smlouvy odstoupit (pojistné podmínky obdržel před uzavřením smlouvy)?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>do 30 dnů,</td></tr><tr><td class='letter'>B</td><td class='answer'>do 14 dnů,</td></tr><tr><td class='letter'>C</td><td class='answer'>do 2 měsíců,</td></tr><tr><td class='letter'>D</td><td class='answer'>do 3 měsíců.</td></tr></table><p class='align-right'>
+                    <br /><h2>Je možné vinkulovat pojistné plnění i z životního pojištění?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>ano,</td></tr><tr><td class='letter'>B</td><td class='answer'>ne,</td></tr><tr><td class='letter'>C</td><td class='answer'>ano, ale pouze ve prospěch banky,</td></tr><tr><td class='letter'>D</td><td class='answer'>ano, ale pouze pokud s tím souhlasí obmyšlené osoby.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>

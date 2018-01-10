@@ -54,7 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Co je úroková míra?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>navýšení zapůjčené částky za stanovené období vyjádřené v procentech,</td></tr><tr><td class='letter'>B</td><td class='answer'>rozdíl vypůjčené a splacené částky z úvěru vyjádřený v konkrétní měně,</td></tr><tr><td class='letter'>C</td><td class='answer'>hodnota, jejíž součástí je roční procentní sazba nákladů,</td></tr><tr><td class='letter'>D</td><td class='answer'>jiný výraz pro směnný kurz.</td></tr></table><p class='align-right'>
+                    <br /><h2>Jaké typy úročení jsou na finančním trhu využívány?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>jednoduché a složené,</td></tr><tr><td class='letter'>B</td><td class='answer'>lineární a nelineární,</td></tr><tr><td class='letter'>C</td><td class='answer'>anuitní a perpetuitní,</td></tr><tr><td class='letter'>D</td><td class='answer'>progresivní a degresivní.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>

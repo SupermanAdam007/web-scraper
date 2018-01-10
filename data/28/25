@@ -54,7 +54,7 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Posouzením úvěruschopnosti spotřebitele se rozumí:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>posouzení schopnosti splácet,</td></tr><tr><td class='letter'>B</td><td class='answer'>posouzení účelu spotřebitelského úvěru,</td></tr><tr><td class='letter'>C</td><td class='answer'>posouzení hodnoty zajištění,</td></tr><tr><td class='letter'>D</td><td class='answer'>posouzení dosavadní splátkové historie.</td></tr></table><p class='align-right'>
+                    <br /><h2>Informace sdělené spotřebitelem při ověřování úvěruschopnosti:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>je poskytovatel povinen ověřit,</td></tr><tr><td class='letter'>B</td><td class='answer'>poskytovatel dále neprověřuje,</td></tr><tr><td class='letter'>C</td><td class='answer'>ověřuje poskytovatel pouze tehdy, pokud se jedná o první úvěr,</td></tr><tr><td class='letter'>D</td><td class='answer'>ověřuje poskytovatel pouze u spotřebitelského úvěru na bydlení v objemu vyšším než 5 000 000 Kč.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>

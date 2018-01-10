@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Hypoteční zástavní listy jsou:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>dluhopisy, jejichž jmenovitá hodnota, jakož i hodnota poměrného výnosu, je zásadně plně kryta pohledávkami z hypotečních úvěrů,</td></tr><tr><td class='letter'>B</td><td class='answer'>dluhopisy, součástí jejichž názvu je označení hypoteční zástavní list a jejichž hodnota je plně kryta zástavním právem k nemovitostem,</td></tr><tr><td class='letter'>C</td><td class='answer'>emitovány na mezinárodních trzích,</td></tr><tr><td class='letter'>D</td><td class='answer'>emitovány pouze bankami a kryty nemovitostmi v jejich vlastnictví.</td></tr></table><p class='align-right'>
+                    <br /><h2>Trh cenných papírů rozlišujeme na:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>primární trh a sekundární trh,</td></tr><tr><td class='letter'>B</td><td class='answer'>primární trh a burzovní trh,</td></tr><tr><td class='letter'>C</td><td class='answer'>primární trh a akciový trh,</td></tr><tr><td class='letter'>D</td><td class='answer'>peněžní trh a finanční trh.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/423'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/424'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

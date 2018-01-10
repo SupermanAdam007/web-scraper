@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Odchylují-li se obchodní podmínky, na které odkazuje uzavřená smlouva, od ustanovení této uzavřené smlouvy, platí že:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>je smlouva neplatná,</td></tr><tr><td class='letter'>B</td><td class='answer'>spotřebitel může od smlouvy odstoupit,</td></tr><tr><td class='letter'>C</td><td class='answer'>mají přednost obchodní podmínky,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>má přednost ustanovení smlouvy.</td></tr></table><p class='align-right'>
+                    <br /><h2>Je-li stranou smlouvy spotřebitel, rozhodčí smlouva:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>musí být součástí smlouvy hlavní,</td></tr><tr><td class='letter'>B</td><td class='answer'>může být součástí všeobecných obchodních podmínek, jimiž se řídí smlouva hlavní,</td></tr><tr><td class='letter'>C</td><td class='answer'>musí být sjednána samostatně a nikoliv jako součást podmínek, jimiž se řídí smlouva hlavní,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>nesmí být uzavřena. </td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1183'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1184'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

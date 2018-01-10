@@ -54,10 +54,10 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Co je pojistná hodnota? </h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>výše pojistného za pojistná nebezpečí,</td></tr><tr><td class='letter'>B</td><td class='answer'>limit pojistného plnění,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>nejvyšší možná majetková újma, která může nastat v důsledku pojistné události,</td></tr><tr><td class='letter'>D</td><td class='answer'>limit spoluúčasti.</td></tr></table><p class='align-right'>
+                    <br /><h2>Pojistitelem je:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>osoba, na jejíž život nebo zdraví bylo pojištění sjednáno,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>právnická osoba, která je oprávněna provozovat pojišťovací činnost podle zákona o pojišťovnictví,</td></tr><tr><td class='letter'>C</td><td class='answer'>fyzická osoba, která je oprávněna ke sjednávání pojištění,</td></tr><tr><td class='letter'>D</td><td class='answer'>ten, na jehož majetek bylo pojištění sjednáno.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/58'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/332'>následující otázka</a>
 <script type='text/javascript'>
 

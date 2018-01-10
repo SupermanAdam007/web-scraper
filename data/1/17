@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Z čeho se skládá tzv. magický investiční trojúhelník?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>příjem, výdaj, rodinný rozpočet,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>riziko, výnos, likvidita,</td></tr><tr><td class='letter'>C</td><td class='answer'>výpočet zisků a ztrát v určitém časovém úseku,</td></tr><tr><td class='letter'>D</td><td class='answer'>vklad, výnos, výdaj.</td></tr></table><p class='align-right'>
+                    <br /><h2>Tabulka, která obsahuje dlužné platby, lhůty a podmínky vztahující se ke splacení  těchto částek, rozčlenění každé splátky ukazující umořování jistiny, úrok vypočítaný na  základě úrokové sazby a veškeré dodatečné náklady, se nazývá:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>tabulkou úročení,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>tabulkou umoření,</td></tr><tr><td class='letter'>C</td><td class='answer'>tabulkou úvěrování,</td></tr><tr><td class='letter'>D</td><td class='answer'>tabulkou oddlužení.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/716'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/837'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Záznam o poskytnutí informací poskytovaných při sjednávání smlouvy o spotřebitelském úvěru formou hlasové telefonní komunikace:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>se nesmí pořizovat s ohledem na ochranu osobních údajů spotřebitele,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>se uchovává, byl-li pořízen,</td></tr><tr><td class='letter'>C</td><td class='answer'>se pořizuje jen u spotřebitelských úvěrů jiných než na bydlení,</td></tr><tr><td class='letter'>D</td><td class='answer'>se pořizuje jen u spotřebitelských úvěrů na bydlení. </td></tr></table><p class='align-right'>
+                    <br /><h2>Jedná-li jménem poskytovatele vázaný zástupce, platí, že pořízené dokumenty nebo jiné záznamy týkající se poskytování, změny nebo zániku spotřebitelského úvěru:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>má povinnost uchovávat pouze vázaný zástupce,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>má povinnost uchovávat poskytovatel,</td></tr><tr><td class='letter'>C</td><td class='answer'>nemá poskytovatel povinnost uchovávat,</td></tr><tr><td class='letter'>D</td><td class='answer'>má povinnost uchovávat poskytovatel pouze v případě, že se na tom dohodl se spotřebitelem; v opačném případě je tato povinnost na straně vázaného zástupce.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/837'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1087'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

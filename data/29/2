@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Jaký je důsledek nesprávného posouzení úvěruschopnosti spotřebitele věřitelem?</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>okamžité zesplatnění úvěru a jeho úročení novou úrokovou sazbou,</td></tr><tr><td class='letter'>B</td><td class='answer'>pokuta až do výše 20 000 000 Kč, kterou může dohledový orgán (Česká národní banka) věřiteli uložit v případě, že bude špatné posouzení prokázáno jako úmyslné,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>pokuta až do výše 20 000 000 Kč, kterou může dohledový orgán (Česká národní banka) věřiteli uložit,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>neplatnost smlouvy o spotřebitelském úvěru.</td></tr></table><p class='align-right'>
+                    <br /><h2>Při posuzování úvěruschopnosti spotřebitele poskytovatel vychází:</h2><p><em>Více správných odpovědí</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>z porovnání příjmů a výdajů spotřebitele a způsobu plnění dosavadních dluhů,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>z hodnoty poskytnutého majetkového zajištění, pokud spotřebitelský úvěr má být částečně nebo úplně splacen výnosem z prodeje majetku spotřebitele,</td></tr><tr><td class='letter'>C</td><td class='answer'>z příjmů spotřebitele bez ohledu na jeho výdaje a způsob plnění dosavadních dluhů,</td></tr><tr><td class='letter'>D</td><td class='answer'>vždy jen z porovnání příjmů a výdajů spotřebitele a hodnoty poskytnutého majetkového zajištění.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správné odpovědi</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/410'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/547'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

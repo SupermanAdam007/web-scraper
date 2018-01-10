@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Mezi postupy a pravidla vhodné z hlediska řádného poskytování spotřebitelského úvěru, které je nebankovní poskytovatel spotřebitelského úvěru povinen zavést a udržovat, nepatří:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>řádné administrativní a účetní postupy,</td></tr><tr><td class='letter'>B</td><td class='answer'>pravidla dodržování povinností souvisejících s bojem proti legalizaci výnosů z trestné činnosti a financování terorismu,</td></tr><tr><td class='letter'>C</td><td class='answer'>pravidla a postupy pro posuzování úvěruschopnosti spotřebitele,</td></tr><tr><td class='letter correct_qq'>D</td><td class='answer'>pravidla pro poskytování informací ve smlouvě o spotřebitelském úvěru.</td></tr></table><p class='align-right'>
+                    <br /><h2>Kdy se klientovi poskytuje tištěná reklamní nabídka?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>na vyžádání klienta,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>není stanoveno,</td></tr><tr><td class='letter'>C</td><td class='answer'>jen v případě, že úvěr přesahuje částku 1 800 000 Kč,</td></tr><tr><td class='letter'>D</td><td class='answer'>jen v případě, že úvěr nepřesahuje částku 1 800 000 Kč.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/619'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/642'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/761'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

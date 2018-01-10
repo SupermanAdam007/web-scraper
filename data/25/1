@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Klient může realizovat úhradu splátky dlužné částky:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>inkasem, vkladem hotovosti, převodem,</td></tr><tr><td class='letter'>B</td><td class='answer'>pouze inkasem,</td></tr><tr><td class='letter'>C</td><td class='answer'>pouze vkladem hotovosti,</td></tr><tr><td class='letter'>D</td><td class='answer'>klient úhradu nerealizuje, banka správou klientových účtů vyrovnává dlužné částky sama.</td></tr></table><p class='align-right'>
+                    <br /><h2>Vázat uzavření smlouvy o spotřebitelském úvěru na sjednání platebního účtu, jehož účelem je shromažďovat peněžní prostředky pro splácení nebo obsluhu spotřebitelského úvěru, pokud není možno uzavřít smlouvu o spotřebitelském úvěru bez uzavření smlouvy o této doplňkové službě:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>je bezvýhradně zakázáno,</td></tr><tr><td class='letter'>B</td><td class='answer'>je možné, pokud je spotřebitel zletilý,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>je možné, pokud je účet bezplatný,</td></tr><tr><td class='letter'>D</td><td class='answer'>je možné bez výhrad.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/127'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/410'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/395'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/495'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {

@@ -54,10 +54,10 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Pokud ve smlouvě o spotřebitelském úvěru není uvedena hodnota zápůjční sazby, pak platí, že:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>úvěr je úročen zápůjční sazbou ve výši repo sazby ČNB platné ke dni splatnosti každé splátky navýšené o 8 procentních bodů,</td></tr><tr><td class='letter correct_qq'>B</td><td class='answer'>úvěr je úročen zápůjční sazbou ve výši repo sazby ČNB platné ke dni, kdy byla smlouva podepsána,</td></tr><tr><td class='letter'>C</td><td class='answer'>úvěr je úročen nulovou zápůjční sazbou ode dne podpisu smlouvy,</td></tr><tr><td class='letter'>D</td><td class='answer'>úvěr je úročen sjednanou sazbou, neboť uvedení zápůjční sazby ve smlouvě není povinnou náležitostí smlouvy.</td></tr></table><p class='align-right'>
+                    <br /><h2>V rámci informační povinnosti je poskytovatel povinen:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>trvale zpřístupnit spotřebiteli data o vývoji úrokových sazeb na českém trhu,</td></tr><tr><td class='letter'>B</td><td class='answer'>trvale zpřístupnit data o vývoji cen nemovitostí, pokud je úvěr určený na bydlení,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>trvale zpřístupnit své kontaktní údaje,</td></tr><tr><td class='letter'>D</td><td class='answer'>trvale zpřístupnit data o změnách v úvěrové legislativě.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/4'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/5'>předchozí otázka</a>
  <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/32'>následující otázka</a>
 <script type='text/javascript'>
 

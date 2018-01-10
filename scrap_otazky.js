@@ -1,5 +1,7 @@
 const fs = require('fs');
 const cheerio = require('cheerio');
+const path = require('path');
+const pdf = require('html-pdf');
 
 const testFolder = './otazky_html/';
 
@@ -25,6 +27,15 @@ function showRightAnswers($) {
 
 function scrapOtazka($) {
     $ = cheerio.load($('#sright').html(), { decodeEntities: false });
+    $('h3').each(function() {
+        $(this).replaceWith('<h4>' + $(this).html() + '</h4>');
+    });
+    $('h2').each(function() {
+        $(this).replaceWith('<b>' + $(this).html() + '</b>');
+    });
+    $('br').each(function() {
+        $(this).remove();
+    });
     return $;
 }
 
@@ -37,12 +48,29 @@ function deleteUnusedTags($) {
     return $;
 }
 
-function proccessDir(dname) {
+function createDir(dname) {
+    fs.existsSync(dname) || fs.mkdirSync(dname);
+}
+
+function proccessDir(dname, absolutDname, dresname) {
     $big = cheerio.load('<html><body></body></html>', { decodeEntities: false });
 
-    var files = fs.readdirSync(dname);
+    // append head to head
+    var dataHead = fs.readFileSync(absolutDname + 'head.html');
+    $head = cheerio.load(dataHead, { decodeEntities: false });
+    console.log($head('body').html());
+    //$head = cheerio.load(dataHead, { decodeEntities: false });
+    $big('body').append($head('body').html());
+    $big('body').append(cheerio.load('<br>'));
+    //console.log('');
+    //console.log($big.html());
+
+    var files = fs.readdirSync(absolutDname);
     for (var i in files) {
-        var data = fs.readFileSync(dname + files[i]);
+        console.log('Proccessing file: ' + files[i] + ', idx: ' + i);
+        if (files[i] == 'head.html') { continue; }
+
+        var data = fs.readFileSync(absolutDname + i /*files[i]*/ );
 
         $ = cheerio.load(data, { decodeEntities: false });
         $ = showRightAnswers($);
@@ -50,12 +78,40 @@ function proccessDir(dname) {
         $ = deleteUnusedTags($);
 
         $big('body').append($.html());
-        console.log($.html());
-        console.log($big.html());
-        saveFile('./batch 1 scrapped/' + files[i] + '.html', $.html());
+        $big('body').append('<br>');
+
+        //console.log($.html());
+        //console.log($big.html());
+        //saveFile('./batch 1 scrapped/' + files[i] + '.html', $.html());
     }
-    saveFile('./batch 1 scrapped/all.html', $big.html());
+
+    //saveFile('./batch 1 scrapped/all-' + absolutDname + '.html', $big.html());
+    var finalName = dresname + 'all-' + dname;
+
+    saveFile(finalName + '.html', $big.html());
+
+    var config = {
+        'format': 'A4',
+        'timeout': 1000000,
+        'html': { 'zoom': 0.55 }
+    };
+    pdf.create($big.html(), config).toFile(finalName + '.pdf', function(err, res) {
+        if (err) return console.log(err);
+        console.log(res);
+    });
 }
 
-//proccessDir(__dirname + '/batch 1/');
-proccessDir(__dirname + '/data/0/');
+var source = __dirname + '/data/';
+var result = __dirname + '/result/';
+
+const isDirectory = source => fs.lstatSync(source).isDirectory()
+const getDirectories = source =>
+    fs.readdirSync(source).map(name => path.join(source, name)).filter(isDirectory)
+
+createDir(result);
+
+for (var dname in getDirectories(source)) {
+    var absolutDname = source + dname + '/';
+    console.log(absolutDname);
+    proccessDir(dname, absolutDname, result);
+}

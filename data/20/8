@@ -54,11 +54,11 @@
             <div id='sright'>
                 <div class='pad'>
                     <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/2'>Vázaný úvěr</a> / <strong>Otázka</strong> </div>
-                    <br /><h2>Ve kterém z uvedených sporů se jedná o spor mimo působnost finančního arbitra (za předpokladu, že nenastala žádná jiná z překážek řízení podle § 9 zákona o finančním arbitrovi)?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>spor o ochranu osobních údajů,</td></tr><tr><td class='letter'>B</td><td class='answer'>spor o poplatky ze smlouvy o úvěru nebo zprostředkovatelské smlouvy,</td></tr><tr><td class='letter'>C</td><td class='answer'>spor o platnost smlouvy o úvěru,</td></tr><tr><td class='letter'>D</td><td class='answer'>spor o platnost odstoupení od smlouvy o úvěru nebo zprostředkovatelské smlouvy.</td></tr></table><p class='align-right'>
+                    <br /><h2>Navrhovatelem zahájení řízení před finančním arbitrem v případě sporu mezi bankou a spotřebitelem ze smlouvy o spotřebitelském úvěru může být:</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter'>A</td><td class='answer'>statutární orgán banky,</td></tr><tr><td class='letter'>B</td><td class='answer'>právní zástupce banky,</td></tr><tr><td class='letter correct_qq'>C</td><td class='answer'>spotřebitel,</td></tr><tr><td class='letter'>D</td><td class='answer'>ombudsman.</td></tr></table><p class='align-right'>
    <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
 <hr />
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/528'>předchozí otázka</a>
- <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/642'>následující otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1097'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/2/otazka_id/1237'>následující otázka</a>
 <script type='text/javascript'>
 
 $('#show_butt').bind('click', function() {
