@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cs" xml:lang="cs">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv='Content-language' content='cs' />
+        <meta http-equiv='Cache-Control' content='must-revalidate, post-check=0, pre-check=0' />
+        <meta http-equiv='Cache-Control' content='no-cache' />
+        <meta http-equiv='Expires' content='-1' />
+        <meta http-equiv='imagetoolbar' content='no' />
+        <meta name='robots' content='index,follow' />
+        <meta name='googlebot' content='index,follow,snippet,archive' />
+        <meta name='description' content='' />
+        <meta name='keywords' content='' />
+        <meta name='category' content='COMPANY PRESENTATION' />
+        <meta name='author' content='Zdenek Zeman - zdenek@octopus.cz' />
+        <meta name='webmaster' content='Zdenek Zeman' />
+        <meta name='copyright' content='OCTOPUS' />
+        <meta name='autosize' content='off' />
+        <link href="/css/eurocert.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/smoothness/jquery-ui-1.8.17.custom.css" media="screen" rel="stylesheet" type="text/css" />
+            
+        <script type='text/javascript' src='/js/jquery-1.7.1.min.js'></script>
+        <script type='text/javascript' src='/js/jquery-ui-1.8.17.custom.min.js'></script>
+        <script type='text/javascript' src='/js/jquery.cookie.js'></script>
+        <script type='text/javascript' src='/js/newsletter.js'></script>
+        <script type='text/javascript' src='/js/jquery.simple.timer.js'></script>
+
+        <title>EURO CERT CZ - zkušební středisko</title>    </head>
+    <body>
+        <div id='top_wrap'>
+            <div id='top'>
+                <a href='http://www.eurocert.cz'><img src='/img/logo/eurocert.gif' alt='Eurocert' title='Eurocert' class='logo' /></a>
+                <div class='flags'>
+
+                </div>
+                <div class='rozcestnik'>
+                    <a href='http://www.eurocert.cz/certifikace/' class='rmenu_item'>CERTIFIKAČNÍ ORGÁN <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='http://www.eurocert.cz/akreditace' class='rmenu_item'>AKREDITAČNÍ STŘEDISKO <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='http://www.eurocert.cz/skoleni' class='rmenu_item'>ŠKOLICÍ STŘEDISKO <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='/zkousky' class='rmenu_item_active'>ZKUŠEBNÍ STŘEDISKO <img src='/img/clip/darrow.gif' /></a>
+                    <a href='http://www.eurocert.cz/spolecnost/' class='rmenu_item'>O SPOLEČNOSTI <img src='/img/clip/arrow.gif' /></a>
+
+                </div>
+                <div style='clear: both;'></div>
+            </div>
+        </div>
+
+        <div id='content'>
+            <div id='sright'>
+                <div class='pad'>
+                    <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/1'>Jiné než bydlení</a> / <strong>Otázka</strong> </div>
+                    <br /><h2>V registru ČNB zapsaný poskytovatel spotřebitelského úvěru a zároveň samostatný zprostředkovatel, firma SolidCredit s.r.o. má 19 pracovníků a jejím jediným jednatelem je pan Pink. Firma SolidCredit s.r.o. zprostředkovává úvěry pro poskytovatele Dobrý úvěr s.r.o., Bezva úvěr a.s. a Skvělý úvěr s.r.o. Jednatel společnosti SolidCredit s.r.o. vydal pro letošní rok v lednu interní pokyn, jehož nosná ustanovení jsou tato: 
+a) Cílovou odměnu 10 000 Kč za letošní rok získá ten pracovník, který p. Pinkovi doporučí alespoň 5 dalších fyzických osob, které se pak jakkoli smluvně zapojí do obchodní sítě SolidCreditu a jejich zapojení přinese nárůst zisku firmy alespoň o 50 000 Kč za příští účetní rok; získané osoby nejprve absolvují dvoudenní vstupní školení za poplatek 7950 Kč, až pak se s nimi podepíše vhodná smlouva.
+b) Provize od Bezva úvěru a.s. je nic moc, úrokové sazby a RPSN mají sice taky nízké, ale jejich smluvní dokumentace je příliš obsáhlá a je s ní moc práce, tedy jejich propagační materiály netřeba vystavovat tak, aby byly pro klienty nejlépe vidět a oni se úvěru od Bezva úvěru dožadovali jako prvního v pořadí (materiály však nelze nevystavit a jejich produkty nějak upozaďovat – lidi od Bezva úvěru totiž chodí na kontroly).
+c) Provize od Skvělého úvěru s.r.o. je co do procenta z částek uzavřených úvěrových smluv největší. Mají vysoké úrokové sazby a víme, že spolupracují s dalšími šikovnými firmami, takže ve finále prakticky nemají problémy se splácením svých úvěrů - o splácení se starají sami. Přestože je známo, že na jejich praktiky při vymáhání dlužných splátek si spotřebitelé často stěžují, nejde o odpovědnost SolidCreditu, který má naopak prospěch z nízkého podílu dlouhodobě nesplácených úvěrů; z každého úvěru uzavřeného pro Skvělý úvěr tak bude osobní provize pro pracovníka o polovinu vyšší než u úvěrů od ostatních poskytovatelů. 
+d) Byl vypracován velmi podrobný ceník interních úkonů (43 různých položek), který stanoví ceny, jež klient zaplatí, i když si úvěr nakonec nevezme. Je na každém pracovníkovi, jak bude s klientem zacházet, aby mu mohl něco naúčtovat - a jako SolidCredit bychom tedy nedělali zadarmo v případech, kdy si spotřebitel někdy i po dlouhých diskusích úvěr nakonec nevezme.
+e) Úvěry na bydlení od Dobrého úvěru s.r.o. je vhodné s klienty sjednávat hlavně od částky 750 000 Kč výše, protože až od této limitní částky by měl spotřebitel dostat i kupón od firmy MegaStav na slevu 11 % na stavební materiál nakupovaný z poskytnutého úvěru, a to do výše až poloviny částky tohoto úvěru. K dispozici je na letošní rok 130 kupónů. Pokud nějaké kupóny před koncem roku nebudou rozdány klientům, budou po prosinci rozdány zájemcům z řad pracovníků SolidCreditu, aby zbytečně nepropadly, aspoň nějak by se tím kompenzovala nízká provize od Dobrého úvěru pro SolidCredit (od ostatních je totiž provize vyšší).
+f) Dva pracovníci, kteří sjednají největší počet po 15 měsíců řádně splácených SÚ a zároveň podíl jimi sjednaných SÚ, které jsou v prodlení s alespoň jednou splátkou či s jinými problémy, nepřekročí 3 % jím sjednaného počtu úvěrů, dostanou pro následující rok navíc týden zvláštního volna vykázaného jako dovolená.
+g) Každý pracovník, který sjedná úvěr na koupi automobilu od autosalónu Pink & bratři s.r.o., dostane zvláštní provizi ve výši 1,25 % z výše řádně zaplacené splátky úvěru za prvních 15 měsíců jeho splácení, a to přímo od prodejce automobilu.
+h) Vánoční odměny v předpokládané výši „třináctého platu“ budou každému pracovníkovi kráceny o 50 Kč za každou klientovi zaslanou upomínku k jím sjednanému spotřebitelskému úvěru, o 100 Kč pak za prodlení klienta s každou splátkou jím sjednaného spotřebitelského úvěru za každý měsíc prodlení.
+</h2><p><em>Případová studie</em></p><br /><h3>Které z ustanovení z interního pokynu jednatele společnosti SolidCredit s.r.o. b), c), g) a h) zcela jistě porušuje závazná pravidla jednání stanovená v ZSÚ.</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>c) protože pobídka navádí k poskytování úvěrů od Skvělého úvěru, tedy poskytovatele, který praktikuje metody vymáhání úvěru, které přinejmenším obcházejí zákon – a tedy nechrání zájmy spotřebitele tím, že ho vystavují zvláštním rizikům</td></tr><tr><td class='letter'>B</td><td class='answer'>b) protože obsáhlá a pracná dokumentace nedává žádnou záruku, že se v ní spotřebitel nakonec vyzná, jak by se v ní vyznat měl – a to, že se v ní spotřebitel vyzná, je nutnou podmínkou toho, aby ji vůbec mohl podepsat</td></tr><tr><td class='letter'>C</td><td class='answer'>g) protože zvláštní provize za sjednání konkrétního úvěru je nedovolená vždy a není rozhodné, kdo je jejím plátcem, podstatné je, že ji dostává pracovník, který sjednává úvěr (i když obchodní smysl takto konstruované provize je velmi diskutabilní) </td></tr><tr><td class='letter'>D</td><td class='answer'>h) protože i předem oznámená peněžní sankce v odměňování pracovníka SolidCreditu za později problémový úvěr, tedy „negativní“ pobídka je pobídkou a v tomto případě je navíc stanoven přímo tvrdý sazebník takových „pobídek“ </td></tr></table><br /><h3>Které z ustanovení z výše uvedených a), d), e) a f) neporušuje závazná pravidla jednání stanovená v ZSÚ.</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>f) protože se jedná o benefit, který sice vede k maximalizaci počtu sjednaných úvěrů, avšak jen řádně splácených, tedy těch, které byly s vysokou pravděpodobností sjednány bez ohrožení povinnosti poskytovat úvěry v souladu se zájmy spotřebitelů
+</td></tr><tr><td class='letter'>B</td><td class='answer'>d) protože  je samozřejmé, že za práci přísluší odměna. Tím spíše přísluší odměna za poskytování rady, za niž i podle občanského zákoníku firma a pracovník nesou zodpovědnost – za špatnou radu mohou být žalování k náhradě škody takovou radou způsobené. Je samozřejmé, že na takové případy je nutně třeba mít ve firmě finanční rezervy a ty je třeba z nějakých příjmů vytvořit</td></tr><tr><td class='letter'>C</td><td class='answer'>e) protože nabádá pracovníky  k dvěma variantám postupu, z nichž obě mohou být v rozporu se zájmy spotřebitelů: buď vede k vyšším než nutným úvěrům (aby přesáhly hranici 750 tis. Kč, poskytují jim slevenky na materiál), a nebo u podlimitních úvěrů nabádá k nabízení úvěrů od poskytovatelů, od nichž má SolidCredit vyšší provizi</td></tr><tr><td class='letter'>D</td><td class='answer'>a) protože každá firma stojí na spolehlivých pracovnících a ti se nejlépe seženou přes osobní známé, překážkou není ani poplatek za školení, protože smlouva bude se zájemci podepsána až po úspěšném absolvování vstupního školení, do té doby navíc nejde o pracovníky firmy ani o osoby s ní jakkoliv spojené, ty se pouze přihlásily na kvalitně placené školení</td></tr></table><br /><h3>Za jakých podmínek vzniká zprostředkovateli spotřebitelského úvěru povinnost informovat spotřebitele o výši své odměny?</h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Vždy před uzavřením smlouvy.</td></tr><tr><td class='letter'>B</td><td class='answer'>Pouze před zprostředkováním spotřebitelského úvěru na bydlení.</td></tr><tr><td class='letter'>C</td><td class='answer'>Pouze, je-li odměna placena poskytovatelem.</td></tr><tr><td class='letter'>D</td><td class='answer'>Pouze zprostředkováním spotřebitelského úvěru jiného než na bydlení.</td></tr></table><br /><h3>Jakou odměnu obdrží pracovník firmy SolidCredit podle bodu g) interního pokynu, je-li výše splátky 7 815 Kč a probíhá-li splácení úvěru takto: 1.-12.splátka včas a dle předpisu, 13.-14. splátka dle předpisu, avšak se zpožděním, 15.-24. splátka včas a dle předpisu.Výsledek zaokrouhlete na celé Kč nahoru. </h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>1 270 Kč </td></tr><tr><td class='letter'>B</td><td class='answer'>14 653 Kč</td></tr><tr><td class='letter'>C</td><td class='answer'>2 149 Kč</td></tr><tr><td class='letter'>D</td><td class='answer'>12 699 Kč</td></tr></table><br /><h3>Pan Pink si jako jednatel firmy vymínil, že všechny žádosti o poskytnutí spotřebitelského úvěru ve výši nad jednoroční čistý příjem žadatele bude finálně posuzovat sám, tedy bude sám rozhodovat o poskytnutí či neposkytnutí úvěru - a kdo z pracovníků mu ke schválení předloží podklady a s nimi návrh rozhodnutí, s nímž on nebude souhlasit, bude při odměňování krácen o 500 Kč v každém takovém případě. </h3><br /><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Pan Pink je oprávněn takové rozhodnutí ve vztahu k posuzování úvěru učinit, pokud je osobou odborně způsobilou; zároveň platí, že toto nově nastavené pravidlo v systému odměňování je v souladu se zákonem o spotřebitelském úvěru.</td></tr><tr><td class='letter'>B</td><td class='answer'>Pan Pink je oprávněn takové rozhodnutí učinit, pokud je osobou odborně způsobilou a pokud by se žadateli o úvěr jednal osobně, aby osobně mohl posoudit jejich důvěryhodnost ; takto nastavené pravidlo v systému odměňování je v souladu se zákonem o spotřebitelském úvěru.</td></tr><tr><td class='letter'>C</td><td class='answer'>Pan Pink je oprávněn takové rozhodnutí učinit, protože jako jediný jednatel SolidCreditu je oprávněn si pro sebe vymínit všechna rozhodnutí  a zároveň je jako jednatel oprávněn rozhodovat o  všech otázkách odměňování ve firmě.  To ovšem platí, jen pokud by takové pravidlo, týkající se současně posuzování úvěru i odměňování, bylo předem alespoň rámcově schváleno ČNB v rámci pravidel odměňování.</td></tr><tr><td class='letter'>D</td><td class='answer'>Pan Pink je oprávněn takové rozhodnutí učinit, protože jako jednatel musí být zároveň osobou odborně způsobilou. Systém odměňování by však byl v souladu se zákonem o spotřebitelském úvěru pouze tehdy, kdyby byl doplněn i o odměnu za souhlas p. Pinka s předloženým návrhem, tedy nebylo v něm jen krácení odměn. </td></tr></table><p class='align-right'>
+   <button class='yellow_button' id='show_butt'>zobrazit správné odpovědi</button></p>
+<hr />
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/1/otazka_id/1614'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/1/otazka_id/1692'>následující otázka</a>
+<script type='text/javascript'>
+
+$('#show_butt').bind('click', function() {
+   $('.correct_qq').addClass('corlated'); 
+});
+</script>
+                 </div>
+            </div>
+
+            <div id='sleft'>
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                                <div class='prod-menu1'>
+                    <a class='mit ' href='javascript:void(0);' id='it_m_zkousky' onclick='toggleMenu("m_zkousky");'><span class='prod'>Zkoušky</span></a>
+                </div>
+                <div class='sub_sub snv' id='m_zkousky'>
+                    <a href='/zsu'><span class='prod'>Úvodní informace</span></a>
+                    <a href='/zsu/kategorie'><span class='prod'>Kategorie zkoušek</span></a>
+                    <a href='/zsu/pravidla'><span class='prod'>Pravidla a průběh zkoušky</span></a>
+                </div>
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                
+                
+                                
+                <div class='prod-menu1'>
+                    
+                    <a class='mit mactiv' href='javascript:void(0);' id='it_m_priprava' onclick='toggleMenu("m_priprava");'><span class='prod'>Příprava na zkoušku</span></a>
+                </div>
+                <div class='sub_sub  ' id='m_priprava'>
+                    <a href='/zsu/priprava'><span class='prod'>Příprava</span></a>
+                    <a href='/zsu/elearning/index'><span class='prod'>E-learning</span></a>
+                    <a href='/zsu/test/index'><span class='prod'>Test nanečisto</span></a>
+
+                </div>
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/terminy'><span class='prod'>Termíny zkoušek</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/cenik'><span class='prod'>Ceník</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/akreditace'><span class='prod'>Akreditace</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/predpisy'><span class='prod'>Právní předpisy</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                
+                                  <div class='prod-menu1'>
+                    <a class='mit ' href='javascript:void(0);' id='it_m_pomuzeme' onclick='toggleMenu("m_pomuzeme");'><span class='prod'>Pomůžeme vám</span></a>
+                </div>
+                <div class='sub_sub  snv' id='m_pomuzeme'>
+
+                  
+
+                    <a href='/zsu/skoleni'><span class='prod'>Školení</span></a>
+
+                    <a href='/zsu/poradenstvi'><span class='prod'>Poradenství</span></a>
+
+                    <a href='/zsu/certifikace'><span class='prod'>Certifikace</span></a>
+
+                    <a href='/zsu/pravni-sluzby'><span class='prod'>Právní služby</span></a>
+
+                </div>
+
+
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/download'><span class='prod'>Dokumenty ke stažení</span></a>
+                </div>
+
+
+
+
+                <div style='clear: both;'></div>    
+
+                <div class='nbox'>
+                    <div class='pad' id='nbox_result'>
+                        <h3>Přihlášení k odběru novinek a slev</h3>
+                        <form name='FN' id='FN' action='' method='post'>
+                            <input class='inp' type='text' id='form_email' name='email' value='@' />
+                            <input class='sub' type="image" src="/img/clip/arrow-box.gif" alt="Odeslat" />
+                        </form>
+                        <p class='small'>
+                            Odesláním emailové adresy souhlasíte s <a href='/spolecnost//newsletter'>podmínkami služby</a>
+                        </p>
+                    </div>
+                </div>
+
+
+                <div id='ECdotaz'>
+                    <a href='/spolecnost/cz/dotaz'>
+                        <strong>Máte otázku?</strong>
+                        <span>Zajímá vás konkrétní informace,
+                            kterou jste zde nenašli?</span>
+                        <img src='/img/clip/arrow.gif' alt='' />
+                    </a>
+                </div>
+
+
+
+
+
+
+
+
+                <div style='clear: both;'></div>
+
+
+                <div class='aktuality'>
+                    <div class='pad'>
+                        <h2>AKTUALITY</h2>
+                        <p class='aheader'><a href='/zkousky/aktuality'>Novinky v právní úpravě BOZP</a></p><p><em>08.06.2017</em>Zdarma nyní nabízíme účastníkům přípravného školení ke zkoušce OZO (prevence rizik v...<br /><a href='/zkousky/aktuality'>podrobnosti</a></p><p class='aheader'><a href='/zkousky/aktuality'>Akreditace od ČNB</a></p><p><em>12.05.2017</em>Rádi bychom Vás informovali, že společnost EURO CERT CZ, a.s. dne 12.5.2017 obdržela...<br /><a href='/zkousky/aktuality'>podrobnosti</a></p>                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+            <div style='clear: both;height: 20px;'></div>
+        </div>
+        <div id='bottom_wrap'>
+            <div id='bottom'>
+                <div class='kontakt'>
+                    <h3>EURO CERT SK, s.r.o.</h3>
+                    Popradská 66<br />
+                    040 01 Košice<br />
+                    Tel.: +421 557 871 940<br />
+                    Tel.:+421 904 413 127<br /> 
+                    Fax: +421 557 871 941<br />
+                    <a href='mailto:info@eurocert.sk'>info@eurocert.sk</a>
+                </div>
+                <div class='kontakt2'>
+                    <h3>EURO CERT CZ, a.s.</h3>
+                    Lidická 2370<br />
+                    252 63 Roztoky u Prahy<br />
+                    Tel.: +420 234 222 111<br />
+                    Fax: +420 234 222 100<br />
+                    Tel.: +420 601 384 085<br />
+                    <a href='mailto:info@eurocert.cz'>info@eurocert.cz</a>
+                </div>
+                <div class='bmap'>
+                    <h3>CERTIFIKAČNÍ ORGÁN</h3>
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-9001'>ISO 9001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-14001'>ISO 14001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/ohsas-18001'>OHSAS 18001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-27001'>ISO/IEC 27001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-3834'>ISO 3834-2</a>
+                </div>
+                <div class='bmap'>
+                    <h3>ŠKOLICÍ STŘEDISKO</h3>
+                    <a href='http://www.eurocert.cz/skoleni'>Školení, kurzy, semináře</a><br />
+                    <a href='http://www.eurocert.cz/skoleni/prehled-skoleni'>Přehled školení</a><br />
+
+                </div>
+                <div class='bmap'>
+                    <h3>ZKUŠEBNÍ STŘEDISKO</h3>
+                    <a href='http://www.eurocert.cz/zkousky'>Zkoušky a certifikace personálu</a><br />
+                    <a href='http://www.eurocert.cz/zkousky/terminy'>Termíny zkoušek</a><br />
+                    <a href='http://www.eurocert.cz/zkousky/prihlaska'>Přihláška k provedení zkoušky</a><br />
+                </div>
+            </div>
+        </div>
+        <div id='footer'>
+            <div class='octopus'>
+                Web realizoval <a href='http://www.octopus.cz'>OCTOPUS</a>
+            </div>
+            Copyright &copy; EURO CERT CZ. Všechna práva vyhrazena.
+        </div>
+
+        <script type='text/javascript'>
+            function toggleMenu(id) {
+                $('.mit').removeClass('mactiv');
+                $('.sub_sub').addClass('snv');
+                $('#' + id).removeClass('snv');
+                if ($('#' + id).hasClass('snv')) {
+                    $('#it_' + id).removeClass('mactiv');
+                } else {
+                    $('#it_' + id).addClass('mactiv');
+                }
+            }
+        </script>
+
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-16155094-1");
+                pageTracker._trackPageview();
+            } catch (err) {
+            }
+        </script>
+    </body>
+</html>

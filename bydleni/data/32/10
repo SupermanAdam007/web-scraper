@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cs" xml:lang="cs">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv='Content-language' content='cs' />
+        <meta http-equiv='Cache-Control' content='must-revalidate, post-check=0, pre-check=0' />
+        <meta http-equiv='Cache-Control' content='no-cache' />
+        <meta http-equiv='Expires' content='-1' />
+        <meta http-equiv='imagetoolbar' content='no' />
+        <meta name='robots' content='index,follow' />
+        <meta name='googlebot' content='index,follow,snippet,archive' />
+        <meta name='description' content='' />
+        <meta name='keywords' content='' />
+        <meta name='category' content='COMPANY PRESENTATION' />
+        <meta name='author' content='Zdenek Zeman - zdenek@octopus.cz' />
+        <meta name='webmaster' content='Zdenek Zeman' />
+        <meta name='copyright' content='OCTOPUS' />
+        <meta name='autosize' content='off' />
+        <link href="/css/eurocert.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/smoothness/jquery-ui-1.8.17.custom.css" media="screen" rel="stylesheet" type="text/css" />
+            
+        <script type='text/javascript' src='/js/jquery-1.7.1.min.js'></script>
+        <script type='text/javascript' src='/js/jquery-ui-1.8.17.custom.min.js'></script>
+        <script type='text/javascript' src='/js/jquery.cookie.js'></script>
+        <script type='text/javascript' src='/js/newsletter.js'></script>
+        <script type='text/javascript' src='/js/jquery.simple.timer.js'></script>
+
+        <title>EURO CERT CZ - zkušební středisko</title>    </head>
+    <body>
+        <div id='top_wrap'>
+            <div id='top'>
+                <a href='http://www.eurocert.cz'><img src='/img/logo/eurocert.gif' alt='Eurocert' title='Eurocert' class='logo' /></a>
+                <div class='flags'>
+
+                </div>
+                <div class='rozcestnik'>
+                    <a href='http://www.eurocert.cz/certifikace/' class='rmenu_item'>CERTIFIKAČNÍ ORGÁN <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='http://www.eurocert.cz/akreditace' class='rmenu_item'>AKREDITAČNÍ STŘEDISKO <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='http://www.eurocert.cz/skoleni' class='rmenu_item'>ŠKOLICÍ STŘEDISKO <img src='/img/clip/arrow.gif' /></a>
+
+                    <a href='/zkousky' class='rmenu_item_active'>ZKUŠEBNÍ STŘEDISKO <img src='/img/clip/darrow.gif' /></a>
+                    <a href='http://www.eurocert.cz/spolecnost/' class='rmenu_item'>O SPOLEČNOSTI <img src='/img/clip/arrow.gif' /></a>
+
+                </div>
+                <div style='clear: both;'></div>
+            </div>
+        </div>
+
+        <div id='content'>
+            <div id='sright'>
+                <div class='pad'>
+                    <div class='breadcrumb'><a href='/zsu'>Zkoušky ZSU</a> /  <a href='/zsu/elearning/index'>E-learning</a> / <a href='/zsu/elearning/detail/id/1'>Jiné než bydlení</a> / <strong>Otázka</strong> </div>
+                    <br /><h2>Jak vysoký je poplatek za řízení u finančního arbitra pro spotřebitele?</h2><p><em>Jedna správná odpověď</em></p><table class='zsut'><tr><td class='letter correct_qq'>A</td><td class='answer'>Řízení u finančního arbitra není zpoplatněno.</td></tr><tr><td class='letter'>B</td><td class='answer'>Poplatek za řízení u finančního arbitra je 2 % z hodnoty sporu.</td></tr><tr><td class='letter'>C</td><td class='answer'>Poplatek za řízení u finančního arbitra je 15 % z hodnoty sporu.</td></tr><tr><td class='letter'>D</td><td class='answer'>Poplatek za řízení u finančního arbitra je 1 000 Kč v podobě kolku, kterým je opatřeno podání.</td></tr></table><p class='align-right'>
+   <button class='yellow_button' id='show_butt'>zobrazit správnou odpověď</button></p>
+<hr />
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/1/otazka_id/1097'>předchozí otázka</a>
+ <a class='blue_button' href='/zsu/elearning/otazka/zkouska_id/1/otazka_id/1241'>následující otázka</a>
+<script type='text/javascript'>
+
+$('#show_butt').bind('click', function() {
+   $('.correct_qq').addClass('corlated'); 
+});
+</script>
+                 </div>
+            </div>
+
+            <div id='sleft'>
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                                <div class='prod-menu1'>
+                    <a class='mit ' href='javascript:void(0);' id='it_m_zkousky' onclick='toggleMenu("m_zkousky");'><span class='prod'>Zkoušky</span></a>
+                </div>
+                <div class='sub_sub snv' id='m_zkousky'>
+                    <a href='/zsu'><span class='prod'>Úvodní informace</span></a>
+                    <a href='/zsu/kategorie'><span class='prod'>Kategorie zkoušek</span></a>
+                    <a href='/zsu/pravidla'><span class='prod'>Pravidla a průběh zkoušky</span></a>
+                </div>
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                
+                
+                                
+                <div class='prod-menu1'>
+                    
+                    <a class='mit mactiv' href='javascript:void(0);' id='it_m_priprava' onclick='toggleMenu("m_priprava");'><span class='prod'>Příprava na zkoušku</span></a>
+                </div>
+                <div class='sub_sub  ' id='m_priprava'>
+                    <a href='/zsu/priprava'><span class='prod'>Příprava</span></a>
+                    <a href='/zsu/elearning/index'><span class='prod'>E-learning</span></a>
+                    <a href='/zsu/test/index'><span class='prod'>Test nanečisto</span></a>
+
+                </div>
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/terminy'><span class='prod'>Termíny zkoušek</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/cenik'><span class='prod'>Ceník</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/akreditace'><span class='prod'>Akreditace</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/predpisy'><span class='prod'>Právní předpisy</span></a>
+                </div>
+
+                <img src='/img/clip/prod-1_d.gif' alt='' class='prod-img' />
+                
+                                  <div class='prod-menu1'>
+                    <a class='mit ' href='javascript:void(0);' id='it_m_pomuzeme' onclick='toggleMenu("m_pomuzeme");'><span class='prod'>Pomůžeme vám</span></a>
+                </div>
+                <div class='sub_sub  snv' id='m_pomuzeme'>
+
+                  
+
+                    <a href='/zsu/skoleni'><span class='prod'>Školení</span></a>
+
+                    <a href='/zsu/poradenstvi'><span class='prod'>Poradenství</span></a>
+
+                    <a href='/zsu/certifikace'><span class='prod'>Certifikace</span></a>
+
+                    <a href='/zsu/pravni-sluzby'><span class='prod'>Právní služby</span></a>
+
+                </div>
+
+
+
+                <img src='/img/clip/prod-1.gif' alt='' class='prod-img' />
+                <div class='prod-menu1'>
+                    <a href='/zsu/download'><span class='prod'>Dokumenty ke stažení</span></a>
+                </div>
+
+
+
+
+                <div style='clear: both;'></div>    
+
+                <div class='nbox'>
+                    <div class='pad' id='nbox_result'>
+                        <h3>Přihlášení k odběru novinek a slev</h3>
+                        <form name='FN' id='FN' action='' method='post'>
+                            <input class='inp' type='text' id='form_email' name='email' value='@' />
+                            <input class='sub' type="image" src="/img/clip/arrow-box.gif" alt="Odeslat" />
+                        </form>
+                        <p class='small'>
+                            Odesláním emailové adresy souhlasíte s <a href='/spolecnost//newsletter'>podmínkami služby</a>
+                        </p>
+                    </div>
+                </div>
+
+
+                <div id='ECdotaz'>
+                    <a href='/spolecnost/cz/dotaz'>
+                        <strong>Máte otázku?</strong>
+                        <span>Zajímá vás konkrétní informace,
+                            kterou jste zde nenašli?</span>
+                        <img src='/img/clip/arrow.gif' alt='' />
+                    </a>
+                </div>
+
+
+
+
+
+
+
+
+                <div style='clear: both;'></div>
+
+
+                <div class='aktuality'>
+                    <div class='pad'>
+                        <h2>AKTUALITY</h2>
+                        <p class='aheader'><a href='/zkousky/aktuality'>Novinky v právní úpravě BOZP</a></p><p><em>08.06.2017</em>Zdarma nyní nabízíme účastníkům přípravného školení ke zkoušce OZO (prevence rizik v...<br /><a href='/zkousky/aktuality'>podrobnosti</a></p><p class='aheader'><a href='/zkousky/aktuality'>Akreditace od ČNB</a></p><p><em>12.05.2017</em>Rádi bychom Vás informovali, že společnost EURO CERT CZ, a.s. dne 12.5.2017 obdržela...<br /><a href='/zkousky/aktuality'>podrobnosti</a></p>                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+            <div style='clear: both;height: 20px;'></div>
+        </div>
+        <div id='bottom_wrap'>
+            <div id='bottom'>
+                <div class='kontakt'>
+                    <h3>EURO CERT SK, s.r.o.</h3>
+                    Popradská 66<br />
+                    040 01 Košice<br />
+                    Tel.: +421 557 871 940<br />
+                    Tel.:+421 904 413 127<br /> 
+                    Fax: +421 557 871 941<br />
+                    <a href='mailto:info@eurocert.sk'>info@eurocert.sk</a>
+                </div>
+                <div class='kontakt2'>
+                    <h3>EURO CERT CZ, a.s.</h3>
+                    Lidická 2370<br />
+                    252 63 Roztoky u Prahy<br />
+                    Tel.: +420 234 222 111<br />
+                    Fax: +420 234 222 100<br />
+                    Tel.: +420 601 384 085<br />
+                    <a href='mailto:info@eurocert.cz'>info@eurocert.cz</a>
+                </div>
+                <div class='bmap'>
+                    <h3>CERTIFIKAČNÍ ORGÁN</h3>
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-9001'>ISO 9001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-14001'>ISO 14001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/ohsas-18001'>OHSAS 18001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-27001'>ISO/IEC 27001</a><br />
+                    <a href='http://www.eurocert.cz/certifikace/cz/iso-3834'>ISO 3834-2</a>
+                </div>
+                <div class='bmap'>
+                    <h3>ŠKOLICÍ STŘEDISKO</h3>
+                    <a href='http://www.eurocert.cz/skoleni'>Školení, kurzy, semináře</a><br />
+                    <a href='http://www.eurocert.cz/skoleni/prehled-skoleni'>Přehled školení</a><br />
+
+                </div>
+                <div class='bmap'>
+                    <h3>ZKUŠEBNÍ STŘEDISKO</h3>
+                    <a href='http://www.eurocert.cz/zkousky'>Zkoušky a certifikace personálu</a><br />
+                    <a href='http://www.eurocert.cz/zkousky/terminy'>Termíny zkoušek</a><br />
+                    <a href='http://www.eurocert.cz/zkousky/prihlaska'>Přihláška k provedení zkoušky</a><br />
+                </div>
+            </div>
+        </div>
+        <div id='footer'>
+            <div class='octopus'>
+                Web realizoval <a href='http://www.octopus.cz'>OCTOPUS</a>
+            </div>
+            Copyright &copy; EURO CERT CZ. Všechna práva vyhrazena.
+        </div>
+
+        <script type='text/javascript'>
+            function toggleMenu(id) {
+                $('.mit').removeClass('mactiv');
+                $('.sub_sub').addClass('snv');
+                $('#' + id).removeClass('snv');
+                if ($('#' + id).hasClass('snv')) {
+                    $('#it_' + id).removeClass('mactiv');
+                } else {
+                    $('#it_' + id).addClass('mactiv');
+                }
+            }
+        </script>
+
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-16155094-1");
+                pageTracker._trackPageview();
+            } catch (err) {
+            }
+        </script>
+    </body>
+</html>
